@@ -3,6 +3,11 @@ import os
 from dotenv import load_dotenv
 from logger import logger
 load_dotenv()
+print("DB_HOST:", os.getenv("DB_HOST"))
+print("DB_USER:", os.getenv("DB_USER"))
+print("DB_NAME:", os.getenv("DB_NAME"))
+print("DB_PASSWORD:", "SET" if os.getenv("DB_PASSWORD") else "NOT SET")
+
 class Database:
     def __init__(self):
         self.host = os.getenv("DB_HOST")

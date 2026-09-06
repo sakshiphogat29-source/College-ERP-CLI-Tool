@@ -1,0 +1,1306 @@
+04-08-2026 21:19:43 | INFO | Connected to the student database.
+04-08-2026 21:19:43 | INFO | Connected to the student database.
+04-08-2026 21:19:43 | ERROR | Error in creating the table
+ Error:1064 (42000): You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'FOREIGN KEY(rollno) REFERENCES student(rollno))' at line 1.
+06-08-2026 20:51:53 | INFO | Connected to the student database.
+06-08-2026 20:51:53 | INFO | Connected to the student database.
+06-08-2026 20:51:53 | ERROR | Error in creating the table Error:1064 (42000): You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'FOREIGN KEY(rollno) REFERENCES student(rollno))' at line 1.
+06-08-2026 20:53:51 | INFO | Connected to the student database.
+06-08-2026 20:53:51 | INFO | Connected to the student database.
+06-08-2026 20:53:51 | ERROR | Error in creating the table Error:1064 (42000): You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'FOREIGN KEY(rollno) REFERENCES student(rollno))' at line 1.
+06-08-2026 20:54:34 | INFO | Connected to the student database.
+06-08-2026 20:54:34 | INFO | Connected to the student database.
+06-08-2026 20:54:34 | ERROR | Error in creating the table Error:1064 (42000): You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'FOREIGN KEY(rollno) REFERENCES student(rollno))' at line 1.
+06-08-2026 20:55:25 | INFO | Connected to the student database.
+06-08-2026 20:55:25 | INFO | Connected to the student database.
+06-08-2026 20:55:25 | ERROR | Error in creating the table Error:1064 (42000): You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'FOREIGN KEY(rollno) REFERENCES student(rollno))' at line 1.
+06-08-2026 20:55:31 | INFO | generated new fontManager
+06-08-2026 20:55:35 | INFO | Connected to the student database.
+06-08-2026 20:55:35 | INFO | Connected to the student database.
+06-08-2026 20:55:35 | ERROR | Error in creating the table Error:1064 (42000): You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'FOREIGN KEY(rollno) REFERENCES student(rollno))' at line 1.
+06-08-2026 20:55:36 | INFO | Connected to the student database.
+06-08-2026 20:55:36 | INFO | Connected to the student database.
+06-08-2026 20:55:36 | ERROR | Error in creating the table Error:1064 (42000): You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'FOREIGN KEY(rollno) REFERENCES student(rollno))' at line 1.
+06-08-2026 20:55:38 | INFO | Connected to the student database.
+06-08-2026 20:55:38 | INFO | Connected to the student database.
+06-08-2026 20:55:38 | ERROR | Error in creating the table Error:1064 (42000): You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'FOREIGN KEY(rollno) REFERENCES student(rollno))' at line 1.
+06-08-2026 21:44:22 | INFO | Connected to the student database.
+06-08-2026 21:44:22 | INFO | Connected to the student database.
+06-08-2026 21:44:22 | ERROR | Error in creating the table Error:1064 (42000): You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'FOREIGN KEY(rollno) REFERENCES student(rollno))' at line 1.
+06-08-2026 21:45:15 | INFO | Connected to the student database.
+06-08-2026 21:45:15 | INFO | Connected to the student database.
+06-08-2026 21:45:15 | ERROR | Error in creating the table Error:1064 (42000): You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'FOREIGN KEY(rollno) REFERENCES student(rollno))' at line 1.
+06-08-2026 21:48:42 | INFO | Connected to the student database.
+06-08-2026 21:48:42 | INFO | Connected to the student database.
+06-08-2026 21:48:42 | ERROR | Error in creating the table Error:1064 (42000): You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'FOREIGN KEY(rollno) REFERENCES student(rollno))' at line 1.
+06-08-2026 21:50:58 | INFO | Connected to the student database.
+06-08-2026 21:50:58 | INFO | Connected to the student database.
+06-08-2026 21:50:58 | ERROR | Error in creating the table Error:1064 (42000): You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'FOREIGN KEY(rollno) REFERENCES student(rollno))' at line 1.
+06-08-2026 21:51:06 | INFO | Connected to the student database.
+06-08-2026 21:51:14 | WARNING | Login attempt with unknown username: 6
+09-08-2026 15:31:27 | INFO | Connected to the student database.
+09-08-2026 15:31:27 | INFO | Connected to the student database.
+09-08-2026 15:31:27 | ERROR | Error in creating the table Error:1064 (42000): You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'FOREIGN KEY(rollno) REFERENCES student(rollno))' at line 1.
+09-08-2026 15:31:56 | INFO | Connected to the student database.
+09-08-2026 15:31:56 | INFO | Connected to the student database.
+09-08-2026 15:31:56 | ERROR | Error in creating the table Error:1064 (42000): You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'FOREIGN KEY(rollno) REFERENCES student(rollno))' at line 1.
+09-08-2026 15:37:09 | INFO | Connected to the student database.
+09-08-2026 15:37:09 | INFO | Connected to the student database.
+09-08-2026 15:37:09 | ERROR | Error in creating the table Error:1064 (42000): You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'FOREIGN KEY(rollno) REFERENCES student(rollno))' at line 1.
+09-08-2026 15:48:06 | INFO | Connected to the student database.
+09-08-2026 15:48:06 | INFO | Admin login successful.
+09-08-2026 15:48:38 | INFO | Connected to the student database.
+09-08-2026 15:48:39 | INFO | Connected to the student database.
+09-08-2026 15:48:39 | INFO | Connected to the student database.
+09-08-2026 15:48:39 | ERROR | Error in creating the table Error:1064 (42000): You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'FOREIGN KEY(rollno) REFERENCES student(rollno))' at line 1.
+09-08-2026 16:00:53 | INFO | Connected to the student database.
+09-08-2026 16:00:53 | INFO | Admin login successful.
+09-08-2026 16:01:34 | INFO | Connected to the student database.
+09-08-2026 16:01:35 | INFO | Students imported successfully from CSV file: C:\Users\meena\OneDrive\Desktop\sakshi\college erp management system\student.csv
+09-08-2026 16:01:35 | ERROR | Error in executing the query
+ Error:2055: Cursor is not connected.
+09-08-2026 16:01:35 | INFO | Students imported successfully from CSV file: C:\Users\meena\OneDrive\Desktop\sakshi\college erp management system\student.csv
+09-08-2026 16:01:35 | ERROR | Error in executing the query
+ Error:2055: Cursor is not connected.
+09-08-2026 16:01:35 | INFO | Students imported successfully from CSV file: C:\Users\meena\OneDrive\Desktop\sakshi\college erp management system\student.csv
+09-08-2026 16:01:35 | ERROR | Error in executing the query
+ Error:2055: Cursor is not connected.
+09-08-2026 16:01:35 | INFO | Students imported successfully from CSV file: C:\Users\meena\OneDrive\Desktop\sakshi\college erp management system\student.csv
+09-08-2026 16:01:35 | ERROR | Error in executing the query
+ Error:2055: Cursor is not connected.
+09-08-2026 16:01:35 | INFO | Students imported successfully from CSV file: C:\Users\meena\OneDrive\Desktop\sakshi\college erp management system\student.csv
+09-08-2026 16:02:38 | INFO | Connected to the student database.
+09-08-2026 16:02:38 | WARNING | Failed login attempt for Roll No 101
+09-08-2026 16:02:55 | INFO | Connected to the student database.
+09-08-2026 16:02:55 | INFO | Admin login successful.
+09-08-2026 16:03:05 | INFO | Connected to the student database.
+09-08-2026 16:05:11 | INFO | Connected to the student database.
+09-08-2026 16:15:32 | INFO | Connected to the student database.
+09-08-2026 16:16:35 | INFO | Connected to the student database.
+09-08-2026 16:19:56 | INFO | Connected to the student database.
+11-08-2026 14:28:36 | INFO | Connected to the student database.
+11-08-2026 14:28:36 | INFO | Connected to the student database.
+11-08-2026 14:28:36 | ERROR | Error in creating the table Error:1064 (42000): You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'FOREIGN KEY(rollno) REFERENCES student(rollno))' at line 1.
+11-08-2026 14:46:42 | INFO | Connected to the student database.
+11-08-2026 14:46:42 | INFO | Admin login successful.
+11-08-2026 14:46:52 | INFO | Connected to the student database.
+11-08-2026 14:55:37 | INFO | Connected to the student database.
+11-08-2026 14:56:38 | INFO | Connected to the student database.
+11-08-2026 14:56:38 | INFO | Connected to the student database.
+11-08-2026 14:56:38 | ERROR | Error in creating the table Error:1064 (42000): You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'FOREIGN KEY(rollno) REFERENCES student(rollno))' at line 1.
+11-08-2026 14:56:52 | INFO | Connected to the student database.
+11-08-2026 14:56:52 | INFO | Admin login successful.
+11-08-2026 14:57:04 | INFO | Connected to the student database.
+11-08-2026 15:04:15 | INFO | Connected to the student database.
+11-08-2026 15:04:15 | INFO | Connected to the student database.
+11-08-2026 15:04:15 | ERROR | Error in creating the table Error:1064 (42000): You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'FOREIGN KEY(rollno) REFERENCES student(rollno))' at line 1.
+11-08-2026 15:04:25 | INFO | Connected to the student database.
+11-08-2026 15:04:25 | INFO | Admin login successful.
+11-08-2026 15:05:19 | INFO | Connected to the student database.
+11-08-2026 15:05:19 | ERROR | Error in executing the query
+ Error:1062 (23000): Duplicate entry '101' for key 'student.PRIMARY'.
+11-08-2026 15:05:19 | INFO | Students imported successfully from CSV file: C:\Users\meena\OneDrive\Desktop\sakshi\college erp management system\sample data\student.csv
+11-08-2026 15:05:19 | ERROR | Error in executing the query
+ Error:2055: Cursor is not connected.
+11-08-2026 15:05:19 | INFO | Students imported successfully from CSV file: C:\Users\meena\OneDrive\Desktop\sakshi\college erp management system\sample data\student.csv
+11-08-2026 15:05:19 | ERROR | Error in executing the query
+ Error:2055: Cursor is not connected.
+11-08-2026 15:05:19 | INFO | Students imported successfully from CSV file: C:\Users\meena\OneDrive\Desktop\sakshi\college erp management system\sample data\student.csv
+11-08-2026 15:05:19 | ERROR | Error in executing the query
+ Error:2055: Cursor is not connected.
+11-08-2026 15:05:19 | INFO | Students imported successfully from CSV file: C:\Users\meena\OneDrive\Desktop\sakshi\college erp management system\sample data\student.csv
+11-08-2026 15:05:19 | ERROR | Error in executing the query
+ Error:2055: Cursor is not connected.
+11-08-2026 15:05:19 | INFO | Students imported successfully from CSV file: C:\Users\meena\OneDrive\Desktop\sakshi\college erp management system\sample data\student.csv
+11-08-2026 15:05:35 | INFO | Connected to the student database.
+11-08-2026 15:07:43 | INFO | Connected to the student database.
+11-08-2026 15:07:43 | INFO | Connected to the student database.
+11-08-2026 15:07:43 | ERROR | Error in creating the table Error:1064 (42000): You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'FOREIGN KEY(rollno) REFERENCES student(rollno))' at line 1.
+11-08-2026 15:07:58 | INFO | Connected to the student database.
+11-08-2026 15:07:58 | WARNING | Failed login attempt for Roll No 101
+11-08-2026 15:08:12 | INFO | Connected to the student database.
+11-08-2026 15:08:12 | INFO | Admin login successful.
+11-08-2026 15:08:27 | INFO | Connected to the student database.
+11-08-2026 15:08:27 | ERROR | Error in executing the query
+ Error:1062 (23000): Duplicate entry '101' for key 'student.PRIMARY'.
+11-08-2026 15:08:27 | INFO | Students imported successfully from CSV file: C:\Users\meena\OneDrive\Desktop\sakshi\college erp management system\sample data\student.csv
+11-08-2026 15:08:27 | ERROR | Error in executing the query
+ Error:2055: Cursor is not connected.
+11-08-2026 15:08:27 | INFO | Students imported successfully from CSV file: C:\Users\meena\OneDrive\Desktop\sakshi\college erp management system\sample data\student.csv
+11-08-2026 15:08:27 | ERROR | Error in executing the query
+ Error:2055: Cursor is not connected.
+11-08-2026 15:08:27 | INFO | Students imported successfully from CSV file: C:\Users\meena\OneDrive\Desktop\sakshi\college erp management system\sample data\student.csv
+11-08-2026 15:08:27 | ERROR | Error in executing the query
+ Error:2055: Cursor is not connected.
+11-08-2026 15:08:27 | INFO | Students imported successfully from CSV file: C:\Users\meena\OneDrive\Desktop\sakshi\college erp management system\sample data\student.csv
+11-08-2026 15:08:27 | ERROR | Error in executing the query
+ Error:2055: Cursor is not connected.
+11-08-2026 15:08:27 | INFO | Students imported successfully from CSV file: C:\Users\meena\OneDrive\Desktop\sakshi\college erp management system\sample data\student.csv
+11-08-2026 15:17:24 | INFO | Connected to the student database.
+11-08-2026 15:17:24 | INFO | Connected to the student database.
+11-08-2026 15:17:24 | ERROR | Error in creating the table Error:1064 (42000): You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'FOREIGN KEY(rollno) REFERENCES student(rollno))' at line 1.
+11-08-2026 15:17:25 | INFO | Connected to the student database.
+11-08-2026 15:17:25 | INFO | Connected to the student database.
+11-08-2026 15:17:25 | ERROR | Error in creating the table Error:1064 (42000): You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'FOREIGN KEY(rollno) REFERENCES student(rollno))' at line 1.
+11-08-2026 15:17:40 | INFO | Connected to the student database.
+11-08-2026 15:17:40 | INFO | Connected to the student database.
+11-08-2026 15:17:40 | ERROR | Error in creating the table Error:1064 (42000): You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'FOREIGN KEY(rollno) REFERENCES student(rollno))' at line 1.
+11-08-2026 15:17:52 | INFO | Connected to the student database.
+11-08-2026 15:17:52 | INFO | Admin login successful.
+11-08-2026 15:18:38 | INFO | Connected to the student database.
+11-08-2026 15:18:38 | ERROR | Error in executing the query
+ Error:1062 (23000): Duplicate entry '101' for key 'student.PRIMARY'.
+11-08-2026 15:18:38 | ERROR | Error in executing the query
+ Error:2055: Cursor is not connected.
+11-08-2026 15:18:38 | ERROR | Error in executing the query
+ Error:2055: Cursor is not connected.
+11-08-2026 15:18:38 | ERROR | Error in executing the query
+ Error:2055: Cursor is not connected.
+11-08-2026 15:18:38 | ERROR | Error in executing the query
+ Error:2055: Cursor is not connected.
+11-08-2026 15:18:38 | INFO | Students imported successfully from CSV file: C:\Users\meena\OneDrive\Desktop\sakshi\college erp management system\sample data\student.csv
+11-08-2026 15:18:55 | INFO | Connected to the student database.
+11-08-2026 15:20:51 | INFO | Connected to the student database.
+11-08-2026 15:20:51 | INFO | Connected to the student database.
+11-08-2026 15:20:51 | ERROR | Error in creating the table Error:1064 (42000): You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'FOREIGN KEY(rollno) REFERENCES student(rollno))' at line 1.
+11-08-2026 15:21:02 | INFO | Connected to the student database.
+11-08-2026 15:21:02 | INFO | Admin login successful.
+11-08-2026 15:21:39 | INFO | Connected to the student database.
+11-08-2026 15:21:39 | ERROR | Error in executing the query
+ Error:2055: Cursor is not connected.
+11-08-2026 15:21:39 | ERROR | Error in executing the query
+ Error:2055: Cursor is not connected.
+11-08-2026 15:21:39 | ERROR | Error in executing the query
+ Error:2055: Cursor is not connected.
+11-08-2026 15:21:39 | ERROR | Error in executing the query
+ Error:2055: Cursor is not connected.
+11-08-2026 15:21:39 | INFO | Students imported successfully from CSV file: C:\Users\meena\OneDrive\Desktop\sakshi\college erp management system\sample data\student.csv
+11-08-2026 15:22:00 | INFO | Connected to the student database.
+11-08-2026 15:22:01 | INFO | Connected to the student database.
+11-08-2026 15:22:01 | INFO | Connected to the student database.
+11-08-2026 15:22:01 | ERROR | Error in creating the table Error:1064 (42000): You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'FOREIGN KEY(rollno) REFERENCES student(rollno))' at line 1.
+11-08-2026 15:28:26 | INFO | Connected to the student database.
+11-08-2026 15:28:26 | INFO | Connected to the student database.
+11-08-2026 15:28:26 | ERROR | Error in creating the table Error:1064 (42000): You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'FOREIGN KEY(rollno) REFERENCES student(rollno))' at line 1.
+11-08-2026 15:28:40 | INFO | Connected to the student database.
+11-08-2026 15:28:40 | INFO | Connected to the student database.
+11-08-2026 15:28:40 | ERROR | Error in creating the table Error:1064 (42000): You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'FOREIGN KEY(rollno) REFERENCES student(rollno))' at line 1.
+11-08-2026 15:28:55 | INFO | Connected to the student database.
+11-08-2026 15:28:55 | INFO | Admin login successful.
+11-08-2026 15:29:21 | INFO | Connected to the student database.
+11-08-2026 15:29:39 | INFO | Connected to the student database.
+11-08-2026 15:29:39 | INFO | Connected to the student database.
+11-08-2026 15:29:39 | ERROR | Error in creating the table Error:1064 (42000): You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'FOREIGN KEY(rollno) REFERENCES student(rollno))' at line 1.
+11-08-2026 15:29:50 | INFO | Connected to the student database.
+11-08-2026 15:29:50 | INFO | Admin login successful.
+11-08-2026 15:29:57 | INFO | Connected to the student database.
+12-08-2026 13:22:20 | INFO | Connected to the student database.
+12-08-2026 13:22:20 | INFO | Connected to the student database.
+12-08-2026 13:22:20 | ERROR | Error in creating the table Error:1064 (42000): You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'FOREIGN KEY(rollno) REFERENCES student(rollno))' at line 1.
+12-08-2026 13:22:43 | INFO | Connected to the student database.
+12-08-2026 13:22:43 | INFO | Admin login successful.
+12-08-2026 13:23:01 | INFO | Connected to the student database.
+12-08-2026 13:23:01 | INFO | Student deleted successfully for Roll No 101
+12-08-2026 13:23:15 | INFO | Connected to the student database.
+12-08-2026 13:23:51 | INFO | Connected to the student database.
+12-08-2026 13:23:51 | INFO | Students imported successfully from CSV file: C:\Users\meena\OneDrive\Desktop\sakshi\college erp management system\sample data\student.csv
+12-08-2026 13:24:08 | INFO | Connected to the student database.
+12-08-2026 13:24:47 | INFO | Connected to the student database.
+12-08-2026 13:24:51 | INFO | Connected to the student database.
+12-08-2026 13:24:51 | INFO | Connected to the student database.
+12-08-2026 13:24:51 | ERROR | Error in creating the table Error:1064 (42000): You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'FOREIGN KEY(rollno) REFERENCES student(rollno))' at line 1.
+12-08-2026 13:32:52 | INFO | Connected to the student database.
+12-08-2026 13:32:52 | INFO | Connected to the student database.
+12-08-2026 13:32:52 | ERROR | Error in creating the table Error:1064 (42000): You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'FOREIGN KEY(rollno) REFERENCES student(rollno))' at line 1.
+12-08-2026 13:33:31 | INFO | Connected to the student database.
+12-08-2026 13:33:31 | WARNING | Failed login attempt for Roll No 101
+12-08-2026 13:34:10 | INFO | Connected to the student database.
+12-08-2026 13:34:10 | WARNING | Failed login attempt for Roll No 101
+12-08-2026 13:41:05 | INFO | Connected to the student database.
+12-08-2026 13:41:05 | WARNING | Failed login attempt for Roll No 101
+12-08-2026 13:41:23 | INFO | Connected to the student database.
+12-08-2026 13:41:23 | WARNING | Failed login attempt for Roll No 101
+12-08-2026 13:41:39 | INFO | Connected to the student database.
+12-08-2026 13:41:39 | INFO | Admin login successful.
+12-08-2026 13:42:09 | INFO | Connected to the student database.
+12-08-2026 13:42:09 | ERROR | Error in executing the query
+ Error:1146 (42S02): Table 'studentdatabase.fees' doesn't exist.
+12-08-2026 13:42:09 | INFO | Fees imported successfully from CSV file: C:\Users\meena\OneDrive\Desktop\sakshi\college erp management system\sample data\fees.csv
+12-08-2026 13:42:09 | ERROR | Error in executing the query
+ Error:1146 (42S02): Table 'studentdatabase.fees' doesn't exist.
+12-08-2026 13:42:09 | INFO | Fees imported successfully from CSV file: C:\Users\meena\OneDrive\Desktop\sakshi\college erp management system\sample data\fees.csv
+12-08-2026 13:42:09 | ERROR | Error in executing the query
+ Error:1146 (42S02): Table 'studentdatabase.fees' doesn't exist.
+12-08-2026 13:42:09 | INFO | Fees imported successfully from CSV file: C:\Users\meena\OneDrive\Desktop\sakshi\college erp management system\sample data\fees.csv
+12-08-2026 13:42:09 | ERROR | Error in executing the query
+ Error:1146 (42S02): Table 'studentdatabase.fees' doesn't exist.
+12-08-2026 13:42:09 | INFO | Fees imported successfully from CSV file: C:\Users\meena\OneDrive\Desktop\sakshi\college erp management system\sample data\fees.csv
+12-08-2026 13:42:09 | ERROR | Error in executing the query
+ Error:1146 (42S02): Table 'studentdatabase.fees' doesn't exist.
+12-08-2026 13:42:09 | INFO | Fees imported successfully from CSV file: C:\Users\meena\OneDrive\Desktop\sakshi\college erp management system\sample data\fees.csv
+12-08-2026 13:42:28 | INFO | Connected to the student database.
+12-08-2026 13:42:28 | ERROR | Error in fetching the query
+ Error:1146 (42S02): Table 'studentdatabase.fees' doesn't exist.
+12-08-2026 13:44:32 | INFO | Connected to the student database.
+12-08-2026 13:44:32 | INFO | Connected to the student database.
+12-08-2026 13:44:32 | ERROR | Error in creating the table Error:1064 (42000): You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'FOREIGN KEY(rollno) REFERENCES student(rollno))' at line 1.
+12-08-2026 13:44:51 | INFO | Connected to the student database.
+12-08-2026 13:44:51 | WARNING | Failed login attempt for Roll No 101
+12-08-2026 13:50:17 | INFO | Connected to the student database.
+12-08-2026 13:50:17 | WARNING | Failed login attempt for Roll No 101
+12-08-2026 13:51:19 | INFO | Connected to the student database.
+12-08-2026 13:51:19 | INFO | Connected to the student database.
+12-08-2026 13:51:19 | ERROR | Error in creating the table Error:1064 (42000): You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'FOREIGN KEY(rollno) REFERENCES student(rollno))' at line 1.
+12-08-2026 13:51:38 | INFO | Connected to the student database.
+12-08-2026 13:51:38 | WARNING | Failed login attempt for Roll No 101
+12-08-2026 13:54:38 | INFO | Connected to the student database.
+12-08-2026 13:54:38 | INFO | Connected to the student database.
+12-08-2026 13:54:38 | ERROR | Error in creating the table Error:1064 (42000): You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'FOREIGN KEY(rollno) REFERENCES student(rollno))' at line 1.
+12-08-2026 13:54:50 | INFO | Connected to the student database.
+12-08-2026 13:54:50 | WARNING | Failed login attempt for Roll No 101
+12-08-2026 14:01:52 | INFO | Connected to the student database.
+12-08-2026 14:01:52 | INFO | Admin login successful.
+12-08-2026 14:02:07 | INFO | Connected to the student database.
+12-08-2026 14:02:48 | INFO | Connected to the student database.
+12-08-2026 14:02:48 | INFO | Student deleted successfully for Roll No 101
+12-08-2026 14:03:13 | INFO | Connected to the student database.
+12-08-2026 14:03:13 | INFO | Student deleted successfully for Roll No 102
+12-08-2026 14:03:21 | INFO | Connected to the student database.
+12-08-2026 14:03:21 | INFO | Student deleted successfully for Roll No 103
+12-08-2026 14:03:28 | INFO | Connected to the student database.
+12-08-2026 14:03:28 | INFO | Student deleted successfully for Roll No 104
+12-08-2026 14:03:33 | INFO | Connected to the student database.
+12-08-2026 14:03:34 | INFO | Student deleted successfully for Roll No 105
+12-08-2026 14:03:39 | INFO | Connected to the student database.
+12-08-2026 14:05:26 | INFO | Connected to the student database.
+12-08-2026 14:05:26 | INFO | Students imported successfully from CSV file: C:\Users\meena\OneDrive\Desktop\sakshi\college erp management system\sample data\student.csv
+12-08-2026 14:05:44 | INFO | Connected to the student database.
+12-08-2026 14:06:18 | INFO | Connected to the student database.
+12-08-2026 14:06:18 | WARNING | Failed login attempt for Roll No 101
+12-08-2026 14:06:57 | INFO | Connected to the student database.
+12-08-2026 14:06:57 | INFO | Connected to the student database.
+12-08-2026 14:06:57 | ERROR | Error in creating the table Error:1064 (42000): You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'FOREIGN KEY(rollno) REFERENCES student(rollno))' at line 1.
+12-08-2026 14:07:11 | INFO | Connected to the student database.
+12-08-2026 14:07:11 | WARNING | Failed login attempt for Roll No 101
+12-08-2026 14:09:11 | INFO | Connected to the student database.
+12-08-2026 14:09:11 | INFO | Connected to the student database.
+12-08-2026 14:09:11 | ERROR | Error in creating the table Error:1064 (42000): You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'FOREIGN KEY(rollno) REFERENCES student(rollno))' at line 1.
+12-08-2026 14:09:22 | INFO | Connected to the student database.
+12-08-2026 14:09:22 | INFO | Admin login successful.
+12-08-2026 14:09:29 | INFO | Connected to the student database.
+12-08-2026 14:09:59 | INFO | Connected to the student database.
+12-08-2026 14:09:59 | INFO | Connected to the student database.
+12-08-2026 14:09:59 | ERROR | Error in creating the table Error:1064 (42000): You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'FOREIGN KEY(rollno) REFERENCES student(rollno))' at line 1.
+12-08-2026 14:10:12 | INFO | Connected to the student database.
+12-08-2026 14:10:12 | INFO | Admin login successful.
+12-08-2026 14:10:23 | INFO | Connected to the student database.
+12-08-2026 14:14:21 | INFO | Connected to the student database.
+12-08-2026 14:14:21 | INFO | Connected to the student database.
+12-08-2026 14:14:21 | ERROR | Error in creating the table Error:1064 (42000): You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'FOREIGN KEY(rollno) REFERENCES student(rollno))' at line 1.
+12-08-2026 14:14:37 | INFO | Connected to the student database.
+12-08-2026 14:14:37 | INFO | Admin login successful.
+12-08-2026 14:14:46 | INFO | Connected to the student database.
+12-08-2026 14:14:46 | INFO | Student deleted successfully for Roll No 101
+12-08-2026 14:14:52 | INFO | Connected to the student database.
+12-08-2026 14:14:52 | INFO | Student deleted successfully for Roll No 102
+12-08-2026 14:14:58 | INFO | Connected to the student database.
+12-08-2026 14:14:58 | INFO | Student deleted successfully for Roll No 103
+12-08-2026 14:15:05 | INFO | Connected to the student database.
+12-08-2026 14:15:05 | INFO | Student deleted successfully for Roll No 104
+12-08-2026 14:15:13 | INFO | Connected to the student database.
+12-08-2026 14:15:13 | INFO | Student deleted successfully for Roll No 105
+12-08-2026 14:15:21 | INFO | Connected to the student database.
+12-08-2026 14:15:21 | INFO | Student deleted successfully for Roll No 106
+12-08-2026 14:15:28 | INFO | Connected to the student database.
+12-08-2026 14:15:28 | INFO | Student deleted successfully for Roll No 107
+12-08-2026 14:15:34 | INFO | Connected to the student database.
+12-08-2026 14:15:34 | INFO | Student deleted successfully for Roll No 108
+12-08-2026 14:15:40 | INFO | Connected to the student database.
+12-08-2026 14:15:40 | INFO | Student deleted successfully for Roll No 109
+12-08-2026 14:15:53 | INFO | Connected to the student database.
+12-08-2026 14:15:53 | INFO | Student deleted successfully for Roll No 110
+12-08-2026 14:15:58 | INFO | Connected to the student database.
+12-08-2026 14:15:58 | INFO | Student deleted successfully for Roll No 111
+12-08-2026 14:16:09 | INFO | Connected to the student database.
+12-08-2026 14:17:51 | INFO | Connected to the student database.
+12-08-2026 14:20:09 | INFO | Connected to the student database.
+12-08-2026 14:20:09 | INFO | Connected to the student database.
+12-08-2026 14:20:09 | ERROR | Error in creating the table Error:1064 (42000): You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'FOREIGN KEY(rollno) REFERENCES student(rollno))' at line 1.
+12-08-2026 14:20:15 | INFO | Connected to the student database.
+12-08-2026 14:20:15 | INFO | Connected to the student database.
+12-08-2026 14:20:15 | ERROR | Error in creating the table Error:1064 (42000): You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'FOREIGN KEY(rollno) REFERENCES student(rollno))' at line 1.
+12-08-2026 14:20:25 | INFO | Connected to the student database.
+12-08-2026 14:20:25 | INFO | Admin login successful.
+12-08-2026 14:20:54 | INFO | Connected to the student database.
+12-08-2026 14:20:54 | INFO | Students imported successfully from CSV file: C:\Users\meena\OneDrive\Desktop\sakshi\college erp management system\sample data\student.csv
+12-08-2026 14:21:07 | INFO | Connected to the student database.
+12-08-2026 14:21:48 | INFO | Connected to the student database.
+12-08-2026 14:21:48 | WARNING | Failed login attempt for Roll No 101
+12-08-2026 14:26:03 | INFO | Connected to the student database.
+12-08-2026 14:26:03 | INFO | Connected to the student database.
+12-08-2026 14:26:03 | ERROR | Error in creating the table Error:1064 (42000): You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'FOREIGN KEY(rollno) REFERENCES student(rollno))' at line 1.
+12-08-2026 14:26:25 | INFO | Connected to the student database.
+12-08-2026 14:26:30 | INFO | Connected to the student database.
+12-08-2026 14:41:27 | INFO | Connected to the student database.
+12-08-2026 14:41:27 | INFO | Connected to the student database.
+12-08-2026 14:41:27 | ERROR | Error in creating the table Error:1064 (42000): You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'FOREIGN KEY(rollno) REFERENCES student(rollno))' at line 1.
+12-08-2026 14:41:45 | INFO | Connected to the student database.
+12-08-2026 14:41:45 | WARNING | Failed login attempt for Roll No 101
+12-08-2026 14:42:04 | INFO | Connected to the student database.
+12-08-2026 14:42:04 | INFO | Connected to the student database.
+12-08-2026 14:42:04 | ERROR | Error in creating the table Error:1064 (42000): You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'FOREIGN KEY(rollno) REFERENCES student(rollno))' at line 1.
+12-08-2026 14:42:17 | INFO | Connected to the student database.
+12-08-2026 14:42:17 | INFO | Admin login successful.
+12-08-2026 14:42:47 | INFO | Connected to the student database.
+12-08-2026 14:42:47 | ERROR | Error in executing the query
+ Error:1146 (42S02): Table 'studentdatabase.fees' doesn't exist.
+12-08-2026 14:42:47 | ERROR | Error in executing the query
+ Error:1146 (42S02): Table 'studentdatabase.fees' doesn't exist.
+12-08-2026 14:42:47 | ERROR | Error in executing the query
+ Error:1146 (42S02): Table 'studentdatabase.fees' doesn't exist.
+12-08-2026 14:42:47 | ERROR | Error in executing the query
+ Error:1146 (42S02): Table 'studentdatabase.fees' doesn't exist.
+12-08-2026 14:42:47 | ERROR | Error in executing the query
+ Error:1146 (42S02): Table 'studentdatabase.fees' doesn't exist.
+12-08-2026 14:42:47 | INFO | Fees imported successfully from CSV file: C:\Users\meena\OneDrive\Desktop\sakshi\college erp management system\sample data\fees.csv
+12-08-2026 14:43:05 | INFO | Connected to the student database.
+12-08-2026 14:43:05 | ERROR | Error in fetching the query
+ Error:1146 (42S02): Table 'studentdatabase.fees' doesn't exist.
+12-08-2026 14:51:14 | INFO | Connected to the student database.
+12-08-2026 14:51:14 | ERROR | Error in fetching the query
+ Error:1146 (42S02): Table 'studentdatabase.fees' doesn't exist.
+12-08-2026 14:52:51 | INFO | Connected to the student database.
+12-08-2026 14:52:51 | INFO | Connected to the student database.
+12-08-2026 14:52:51 | ERROR | Error in creating the table Error:1064 (42000): You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'FOREIGN KEY(rollno) REFERENCES student(rollno))' at line 1.
+12-08-2026 14:53:02 | INFO | Connected to the student database.
+12-08-2026 14:53:02 | INFO | Admin login successful.
+12-08-2026 14:53:18 | INFO | Connected to the student database.
+12-08-2026 14:53:18 | ERROR | Error in fetching the query
+ Error:1146 (42S02): Table 'studentdatabase.fees' doesn't exist.
+12-08-2026 14:53:49 | INFO | Connected to the student database.
+12-08-2026 14:53:49 | ERROR | Error in executing the query
+ Error:1146 (42S02): Table 'studentdatabase.fees' doesn't exist.
+12-08-2026 14:53:49 | ERROR | Error in executing the query
+ Error:1146 (42S02): Table 'studentdatabase.fees' doesn't exist.
+12-08-2026 14:53:49 | ERROR | Error in executing the query
+ Error:1146 (42S02): Table 'studentdatabase.fees' doesn't exist.
+12-08-2026 14:53:49 | ERROR | Error in executing the query
+ Error:1146 (42S02): Table 'studentdatabase.fees' doesn't exist.
+12-08-2026 14:53:49 | ERROR | Error in executing the query
+ Error:1146 (42S02): Table 'studentdatabase.fees' doesn't exist.
+12-08-2026 14:53:49 | INFO | Fees imported successfully from CSV file: C:\Users\meena\OneDrive\Desktop\sakshi\college erp management system\sample data\fees.csv
+12-08-2026 14:54:16 | INFO | Connected to the student database.
+12-08-2026 14:54:16 | ERROR | Error in fetching the query
+ Error:1146 (42S02): Table 'studentdatabase.fees' doesn't exist.
+12-08-2026 15:08:18 | INFO | Connected to the student database.
+12-08-2026 15:08:18 | INFO | Connected to the student database.
+12-08-2026 15:08:18 | ERROR | Error in creating the table Error:1064 (42000): You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ',) PRIMARY KEY(rollno,attendance_date,subject_id), FOREIGN KEY(rollno) REFERENCE' at line 1.
+12-08-2026 15:08:18 | ERROR | Error in executing the query
+ Error:1051 (42S02): Unknown table 'studentdatabase.fees'.
+12-08-2026 15:08:18 | ERROR | Error in executing the query
+ Error:1064 (42000): You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'DATABASE' at line 1.
+12-08-2026 15:08:30 | INFO | Connected to the student database.
+12-08-2026 15:08:30 | INFO | Connected to the student database.
+12-08-2026 15:08:30 | ERROR | Error in creating the table Error:1064 (42000): You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ',) PRIMARY KEY(rollno,attendance_date,subject_id), FOREIGN KEY(rollno) REFERENCE' at line 1.
+12-08-2026 15:08:30 | ERROR | Error in executing the query
+ Error:1051 (42S02): Unknown table 'studentdatabase.fees'.
+12-08-2026 15:08:30 | ERROR | Error in executing the query
+ Error:1064 (42000): You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'DATABASE' at line 1.
+12-08-2026 15:20:54 | INFO | Connected to the student database.
+12-08-2026 15:20:54 | INFO | Connected to the student database.
+12-08-2026 15:20:54 | ERROR | Error in creating the table Error:1064 (42000): You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'FOREIGN KEY(rollno) REFERENCES students(rollno)' at line 1.
+12-08-2026 15:20:54 | ERROR | Error in executing the query
+ Error:1146 (42S02): Table 'studentdatabase.fees' doesn't exist.
+12-08-2026 15:21:35 | INFO | Connected to the student database.
+12-08-2026 15:21:35 | INFO | Connected to the student database.
+12-08-2026 15:21:35 | ERROR | Error in creating the table Error:1064 (42000): You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'FOREIGN KEY(rollno) REFERENCES students(rollno)' at line 1.
+12-08-2026 15:21:35 | ERROR | Error in executing the query
+ Error:1146 (42S02): Table 'studentdatabase.fees' doesn't exist.
+12-08-2026 15:23:15 | INFO | Connected to the student database.
+12-08-2026 15:23:15 | INFO | Connected to the student database.
+12-08-2026 15:23:15 | ERROR | Error in creating the table Error:1064 (42000): You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'FOREIGN KEY(rollno) REFERENCES students(rollno)' at line 1.
+12-08-2026 15:23:27 | INFO | Connected to the student database.
+12-08-2026 15:23:27 | INFO | Admin login successful.
+12-08-2026 15:23:52 | INFO | Connected to the student database.
+12-08-2026 15:23:52 | ERROR | Error in executing the query
+ Error:1146 (42S02): Table 'studentdatabase.fees' doesn't exist.
+12-08-2026 15:23:52 | ERROR | Error in executing the query
+ Error:1146 (42S02): Table 'studentdatabase.fees' doesn't exist.
+12-08-2026 15:23:52 | ERROR | Error in executing the query
+ Error:1146 (42S02): Table 'studentdatabase.fees' doesn't exist.
+12-08-2026 15:23:52 | ERROR | Error in executing the query
+ Error:1146 (42S02): Table 'studentdatabase.fees' doesn't exist.
+12-08-2026 15:23:52 | ERROR | Error in executing the query
+ Error:1146 (42S02): Table 'studentdatabase.fees' doesn't exist.
+12-08-2026 15:23:52 | INFO | Fees imported successfully from CSV file: C:\Users\meena\OneDrive\Desktop\sakshi\college erp management system\sample data\fees.csv
+12-08-2026 15:24:05 | INFO | Connected to the student database.
+12-08-2026 15:24:05 | ERROR | Error in fetching the query
+ Error:1146 (42S02): Table 'studentdatabase.fees' doesn't exist.
+15-08-2026 15:38:38 | INFO | Connected to the student database.
+15-08-2026 15:40:39 | INFO | Connected to the student database.
+15-08-2026 15:40:39 | INFO | Connected to the student database.
+15-08-2026 15:40:39 | ERROR | Error in creating the table Error:1064 (42000): You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'FOREIGN KEY(rollno) REFERENCES students(rollno)' at line 1.
+15-08-2026 15:42:21 | INFO | Connected to the student database.
+15-08-2026 15:42:21 | INFO | Connected to the student database.
+15-08-2026 15:42:21 | ERROR | Error in creating the table Error:1064 (42000): You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'FOREIGN KEY(rollno) REFERENCES students(rollno)' at line 1.
+15-08-2026 15:42:21 | ERROR | Error in executing the query
+ Error:1146 (42S02): Table 'studentdatabase.fees' doesn't exist.
+15-08-2026 15:42:32 | INFO | Connected to the student database.
+15-08-2026 15:42:32 | INFO | Connected to the student database.
+15-08-2026 15:42:32 | ERROR | Error in creating the table Error:1064 (42000): You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'FOREIGN KEY(rollno) REFERENCES students(rollno)' at line 1.
+15-08-2026 15:42:32 | ERROR | Error in executing the query
+ Error:1146 (42S02): Table 'studentdatabase.fees' doesn't exist.
+15-08-2026 15:42:32 | INFO | Connected to the student database.
+15-08-2026 15:42:32 | INFO | Connected to the student database.
+15-08-2026 15:42:32 | ERROR | Error in creating the table Error:1064 (42000): You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'FOREIGN KEY(rollno) REFERENCES students(rollno)' at line 1.
+15-08-2026 15:42:32 | ERROR | Error in executing the query
+ Error:1146 (42S02): Table 'studentdatabase.fees' doesn't exist.
+15-08-2026 15:45:14 | INFO | Connected to the student database.
+15-08-2026 15:45:14 | INFO | Connected to the student database.
+15-08-2026 15:45:15 | ERROR | Error in creating the table Error:1064 (42000): You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'FOREIGN KEY(rollno) REFERENCES students(rollno)' at line 1.
+15-08-2026 15:45:15 | ERROR | Error in executing the query
+ Error:1146 (42S02): Table 'studentdatabase.fees' doesn't exist.
+15-08-2026 15:46:41 | INFO | Connected to the student database.
+15-08-2026 15:46:41 | WARNING | Failed admin login attempt with username: admin
+15-08-2026 15:46:53 | INFO | Connected to the student database.
+15-08-2026 15:46:53 | INFO | Admin login successful.
+15-08-2026 15:47:22 | INFO | Connected to the student database.
+15-08-2026 15:47:22 | ERROR | Error in executing the query
+ Error:1146 (42S02): Table 'studentdatabase.fees' doesn't exist.
+15-08-2026 15:47:22 | ERROR | Error in executing the query
+ Error:1146 (42S02): Table 'studentdatabase.fees' doesn't exist.
+15-08-2026 15:47:22 | ERROR | Error in executing the query
+ Error:1146 (42S02): Table 'studentdatabase.fees' doesn't exist.
+15-08-2026 15:47:22 | ERROR | Error in executing the query
+ Error:1146 (42S02): Table 'studentdatabase.fees' doesn't exist.
+15-08-2026 15:47:22 | ERROR | Error in executing the query
+ Error:1146 (42S02): Table 'studentdatabase.fees' doesn't exist.
+15-08-2026 15:47:22 | INFO | Fees imported successfully from CSV file: C:\Users\meena\OneDrive\Desktop\sakshi\college erp management system\sample data\fees.csv
+15-08-2026 15:47:44 | INFO | Connected to the student database.
+15-08-2026 15:47:44 | ERROR | Error in fetching the query
+ Error:1146 (42S02): Table 'studentdatabase.fees' doesn't exist.
+15-08-2026 15:51:20 | INFO | Connected to the student database.
+15-08-2026 15:51:20 | INFO | Connected to the student database.
+15-08-2026 15:51:20 | ERROR | Error in creating the table Error:1064 (42000): You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'FOREIGN KEY(rollno) REFERENCES students(rollno)' at line 1.
+15-08-2026 15:51:20 | ERROR | Error in executing the query
+ Error:1146 (42S02): Table 'studentdatabase.fees' doesn't exist.
+15-08-2026 15:51:32 | INFO | Connected to the student database.
+15-08-2026 15:51:32 | INFO | Admin login successful.
+15-08-2026 15:51:57 | INFO | Connected to the student database.
+15-08-2026 15:51:57 | ERROR | Error in executing the query
+ Error:1146 (42S02): Table 'studentdatabase.fees' doesn't exist.
+15-08-2026 15:51:57 | ERROR | Error in executing the query
+ Error:1146 (42S02): Table 'studentdatabase.fees' doesn't exist.
+15-08-2026 15:51:57 | ERROR | Error in executing the query
+ Error:1146 (42S02): Table 'studentdatabase.fees' doesn't exist.
+15-08-2026 15:51:57 | ERROR | Error in executing the query
+ Error:1146 (42S02): Table 'studentdatabase.fees' doesn't exist.
+15-08-2026 15:51:57 | ERROR | Error in executing the query
+ Error:1146 (42S02): Table 'studentdatabase.fees' doesn't exist.
+15-08-2026 15:51:57 | INFO | Fees imported successfully from CSV file: C:\Users\meena\OneDrive\Desktop\sakshi\college erp management system\sample data\fees.csv
+15-08-2026 15:52:10 | INFO | Connected to the student database.
+15-08-2026 15:52:10 | ERROR | Error in fetching the query
+ Error:1146 (42S02): Table 'studentdatabase.fees' doesn't exist.
+15-08-2026 15:55:00 | INFO | Connected to the student database.
+15-08-2026 15:55:00 | INFO | Connected to the student database.
+15-08-2026 15:55:00 | ERROR | Error in creating the table Error:1064 (42000): You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'FOREIGN KEY(rollno) REFERENCES students(rollno)' at line 1.
+15-08-2026 15:55:00 | ERROR | Error in executing the query
+ Error:1146 (42S02): Table 'studentdatabase.fees' doesn't exist.
+15-08-2026 15:55:09 | INFO | Connected to the student database.
+15-08-2026 15:55:09 | INFO | Admin login successful.
+15-08-2026 15:55:49 | INFO | Connected to the student database.
+15-08-2026 15:55:49 | ERROR | Error in executing the query
+ Error:1146 (42S02): Table 'studentdatabase.fees' doesn't exist.
+15-08-2026 15:55:49 | ERROR | Error in executing the query
+ Error:1146 (42S02): Table 'studentdatabase.fees' doesn't exist.
+15-08-2026 15:55:49 | ERROR | Error in executing the query
+ Error:1146 (42S02): Table 'studentdatabase.fees' doesn't exist.
+15-08-2026 15:55:49 | ERROR | Error in executing the query
+ Error:1146 (42S02): Table 'studentdatabase.fees' doesn't exist.
+15-08-2026 15:55:49 | ERROR | Error in executing the query
+ Error:1146 (42S02): Table 'studentdatabase.fees' doesn't exist.
+15-08-2026 15:55:49 | INFO | Fees imported successfully from CSV file: C:\Users\meena\OneDrive\Desktop\sakshi\college erp management system\sample data\fees.csv
+15-08-2026 15:55:59 | INFO | Connected to the student database.
+15-08-2026 15:55:59 | ERROR | Error in fetching the query
+ Error:1146 (42S02): Table 'studentdatabase.fees' doesn't exist.
+15-08-2026 16:01:09 | INFO | Connected to the student database.
+15-08-2026 16:01:09 | INFO | Connected to the student database.
+15-08-2026 16:01:09 | ERROR | Error in creating the table Error:1064 (42000): You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'FOREIGN KEY(rollno) REFERENCES students(rollno)' at line 1.
+15-08-2026 16:01:09 | ERROR | Error in executing the query
+ Error:1146 (42S02): Table 'studentdatabase.fees' doesn't exist.
+15-08-2026 16:03:22 | INFO | Connected to the student database.
+15-08-2026 16:03:22 | INFO | Connected to the student database.
+15-08-2026 16:03:22 | ERROR | Error in creating the table Error:1064 (42000): You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'FOREIGN KEY(rollno) REFERENCES students(rollno)' at line 1.
+15-08-2026 16:03:22 | ERROR | Error in executing the query
+ Error:1146 (42S02): Table 'studentdatabase.fees' doesn't exist.
+15-08-2026 16:03:35 | INFO | Connected to the student database.
+15-08-2026 16:03:35 | INFO | Connected to the student database.
+15-08-2026 16:03:35 | ERROR | Error in creating the table Error:1064 (42000): You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'FOREIGN KEY(rollno) REFERENCES students(rollno)' at line 1.
+15-08-2026 16:03:35 | ERROR | Error in executing the query
+ Error:1146 (42S02): Table 'studentdatabase.fees' doesn't exist.
+15-08-2026 16:04:30 | INFO | Connected to the student database.
+15-08-2026 16:04:30 | INFO | Connected to the student database.
+15-08-2026 16:04:30 | ERROR | Error in creating the table Error:1064 (42000): You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'FOREIGN KEY(rollno) REFERENCES students(rollno)' at line 1.
+15-08-2026 16:06:26 | INFO | Connected to the student database.
+15-08-2026 16:06:26 | INFO | Connected to the student database.
+15-08-2026 16:06:26 | ERROR | Error in creating the table Error:1064 (42000): You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1.
+15-08-2026 16:06:38 | INFO | Connected to the student database.
+15-08-2026 16:06:38 | INFO | Connected to the student database.
+15-08-2026 16:06:38 | ERROR | Error in creating the table Error:1064 (42000): You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1.
+15-08-2026 16:09:08 | INFO | Connected to the student database.
+15-08-2026 16:09:08 | INFO | Connected to the student database.
+15-08-2026 16:09:08 | ERROR | Error in creating the table Error:1064 (42000): You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '(rollno,attendance_date,subject_id), FOREIGN KEY(rollno) REFERENCES students(rol' at line 1.
+15-08-2026 16:09:45 | INFO | Connected to the student database.
+15-08-2026 16:09:45 | INFO | Connected to the student database.
+15-08-2026 16:09:54 | INFO | Connected to the student database.
+15-08-2026 16:09:54 | INFO | Connected to the student database.
+15-08-2026 16:09:55 | INFO | Connected to the student database.
+15-08-2026 16:09:55 | INFO | Connected to the student database.
+15-08-2026 16:10:13 | INFO | Connected to the student database.
+15-08-2026 16:10:13 | INFO | Connected to the student database.
+15-08-2026 16:10:30 | INFO | Connected to the student database.
+15-08-2026 16:10:30 | INFO | Admin login successful.
+15-08-2026 16:10:38 | INFO | Connected to the student database.
+15-08-2026 16:11:09 | INFO | Connected to the student database.
+15-08-2026 16:11:09 | INFO | Students imported successfully from CSV file: C:\Users\meena\OneDrive\Desktop\sakshi\college erp management system\sample data\student.csv
+15-08-2026 16:11:21 | INFO | Connected to the student database.
+15-08-2026 16:11:51 | INFO | Connected to the student database.
+15-08-2026 16:11:51 | INFO | Fees imported successfully from CSV file: C:\Users\meena\OneDrive\Desktop\sakshi\college erp management system\sample data\fees.csv
+15-08-2026 16:12:10 | INFO | Connected to the student database.
+15-08-2026 16:13:09 | INFO | Connected to the student database.
+15-08-2026 16:14:16 | INFO | Connected to the student database.
+15-08-2026 16:14:16 | INFO | Connected to the student database.
+15-08-2026 16:14:22 | INFO | Connected to the student database.
+15-08-2026 16:14:22 | INFO | Connected to the student database.
+15-08-2026 16:14:33 | INFO | Connected to the student database.
+15-08-2026 16:14:33 | INFO | Admin login successful.
+15-08-2026 16:14:54 | INFO | Connected to the student database.
+15-08-2026 16:14:55 | INFO | Connected to the student database.
+15-08-2026 16:14:55 | INFO | Connected to the student database.
+15-08-2026 16:23:36 | INFO | Connected to the student database.
+15-08-2026 16:23:36 | INFO | Connected to the student database.
+15-08-2026 16:23:47 | INFO | Connected to the student database.
+15-08-2026 16:23:47 | INFO | Admin login successful.
+15-08-2026 16:24:01 | INFO | Connected to the student database.
+15-08-2026 16:24:01 | ERROR | Error in executing the query
+ Error:Not enough parameters for the SQL statement.
+15-08-2026 16:24:01 | INFO | Attendance imported successfully from CSV file: C:\Users\meena\OneDrive\Desktop\sakshi\college erp management system\sample data\Untitled-1.csv
+15-08-2026 16:24:01 | ERROR | Error in executing the query
+ Error:2055: Cursor is not connected.
+15-08-2026 16:24:01 | INFO | Attendance imported successfully from CSV file: C:\Users\meena\OneDrive\Desktop\sakshi\college erp management system\sample data\Untitled-1.csv
+15-08-2026 16:24:01 | ERROR | Error in executing the query
+ Error:2055: Cursor is not connected.
+15-08-2026 16:24:01 | INFO | Attendance imported successfully from CSV file: C:\Users\meena\OneDrive\Desktop\sakshi\college erp management system\sample data\Untitled-1.csv
+15-08-2026 16:24:01 | ERROR | Error in executing the query
+ Error:2055: Cursor is not connected.
+15-08-2026 16:24:01 | INFO | Attendance imported successfully from CSV file: C:\Users\meena\OneDrive\Desktop\sakshi\college erp management system\sample data\Untitled-1.csv
+15-08-2026 16:24:01 | ERROR | Error in executing the query
+ Error:2055: Cursor is not connected.
+15-08-2026 16:24:01 | INFO | Attendance imported successfully from CSV file: C:\Users\meena\OneDrive\Desktop\sakshi\college erp management system\sample data\Untitled-1.csv
+15-08-2026 16:24:01 | ERROR | Error in executing the query
+ Error:2055: Cursor is not connected.
+15-08-2026 16:24:01 | INFO | Attendance imported successfully from CSV file: C:\Users\meena\OneDrive\Desktop\sakshi\college erp management system\sample data\Untitled-1.csv
+15-08-2026 16:24:01 | ERROR | Error in executing the query
+ Error:2055: Cursor is not connected.
+15-08-2026 16:24:01 | INFO | Attendance imported successfully from CSV file: C:\Users\meena\OneDrive\Desktop\sakshi\college erp management system\sample data\Untitled-1.csv
+15-08-2026 16:24:01 | ERROR | Error in executing the query
+ Error:2055: Cursor is not connected.
+15-08-2026 16:24:01 | INFO | Attendance imported successfully from CSV file: C:\Users\meena\OneDrive\Desktop\sakshi\college erp management system\sample data\Untitled-1.csv
+15-08-2026 16:24:01 | ERROR | Error in executing the query
+ Error:2055: Cursor is not connected.
+15-08-2026 16:24:01 | INFO | Attendance imported successfully from CSV file: C:\Users\meena\OneDrive\Desktop\sakshi\college erp management system\sample data\Untitled-1.csv
+15-08-2026 16:24:01 | ERROR | Error in executing the query
+ Error:2055: Cursor is not connected.
+15-08-2026 16:24:01 | INFO | Attendance imported successfully from CSV file: C:\Users\meena\OneDrive\Desktop\sakshi\college erp management system\sample data\Untitled-1.csv
+15-08-2026 16:26:28 | INFO | Connected to the student database.
+15-08-2026 16:26:28 | INFO | Connected to the student database.
+15-08-2026 16:26:37 | INFO | Connected to the student database.
+15-08-2026 16:26:37 | INFO | Admin login successful.
+15-08-2026 16:27:14 | INFO | Connected to the student database.
+15-08-2026 16:27:14 | INFO | Attendance imported successfully from CSV file: C:\Users\meena\OneDrive\Desktop\sakshi\college erp management system\sample data\Untitled-1.csv
+15-08-2026 16:27:14 | ERROR | Error in executing the query
+ Error:2055: Cursor is not connected.
+15-08-2026 16:27:14 | INFO | Attendance imported successfully from CSV file: C:\Users\meena\OneDrive\Desktop\sakshi\college erp management system\sample data\Untitled-1.csv
+15-08-2026 16:27:14 | ERROR | Error in executing the query
+ Error:2055: Cursor is not connected.
+15-08-2026 16:27:14 | INFO | Attendance imported successfully from CSV file: C:\Users\meena\OneDrive\Desktop\sakshi\college erp management system\sample data\Untitled-1.csv
+15-08-2026 16:27:14 | ERROR | Error in executing the query
+ Error:2055: Cursor is not connected.
+15-08-2026 16:27:14 | INFO | Attendance imported successfully from CSV file: C:\Users\meena\OneDrive\Desktop\sakshi\college erp management system\sample data\Untitled-1.csv
+15-08-2026 16:27:14 | ERROR | Error in executing the query
+ Error:2055: Cursor is not connected.
+15-08-2026 16:27:14 | INFO | Attendance imported successfully from CSV file: C:\Users\meena\OneDrive\Desktop\sakshi\college erp management system\sample data\Untitled-1.csv
+15-08-2026 16:27:14 | ERROR | Error in executing the query
+ Error:2055: Cursor is not connected.
+15-08-2026 16:27:14 | INFO | Attendance imported successfully from CSV file: C:\Users\meena\OneDrive\Desktop\sakshi\college erp management system\sample data\Untitled-1.csv
+15-08-2026 16:27:14 | ERROR | Error in executing the query
+ Error:2055: Cursor is not connected.
+15-08-2026 16:27:14 | INFO | Attendance imported successfully from CSV file: C:\Users\meena\OneDrive\Desktop\sakshi\college erp management system\sample data\Untitled-1.csv
+15-08-2026 16:27:14 | ERROR | Error in executing the query
+ Error:2055: Cursor is not connected.
+15-08-2026 16:27:14 | INFO | Attendance imported successfully from CSV file: C:\Users\meena\OneDrive\Desktop\sakshi\college erp management system\sample data\Untitled-1.csv
+15-08-2026 16:27:14 | ERROR | Error in executing the query
+ Error:2055: Cursor is not connected.
+15-08-2026 16:27:14 | INFO | Attendance imported successfully from CSV file: C:\Users\meena\OneDrive\Desktop\sakshi\college erp management system\sample data\Untitled-1.csv
+15-08-2026 16:27:14 | ERROR | Error in executing the query
+ Error:2055: Cursor is not connected.
+15-08-2026 16:27:14 | INFO | Attendance imported successfully from CSV file: C:\Users\meena\OneDrive\Desktop\sakshi\college erp management system\sample data\Untitled-1.csv
+15-08-2026 16:28:59 | INFO | Connected to the student database.
+15-08-2026 16:28:59 | INFO | Connected to the student database.
+15-08-2026 16:29:10 | INFO | Connected to the student database.
+15-08-2026 16:29:10 | INFO | Admin login successful.
+15-08-2026 16:29:38 | INFO | Connected to the student database.
+15-08-2026 16:29:38 | ERROR | Error in executing the query
+ Error:1062 (23000): Duplicate entry '101-2026-08-01-1' for key 'attendancetable.PRIMARY'.
+15-08-2026 16:29:38 | INFO | Attendance imported successfully from CSV file: C:\Users\meena\OneDrive\Desktop\sakshi\college erp management system\sample data\Untitled-1.csv
+15-08-2026 16:29:38 | INFO | Attendance imported successfully from CSV file: C:\Users\meena\OneDrive\Desktop\sakshi\college erp management system\sample data\Untitled-1.csv
+15-08-2026 16:29:38 | INFO | Attendance imported successfully from CSV file: C:\Users\meena\OneDrive\Desktop\sakshi\college erp management system\sample data\Untitled-1.csv
+15-08-2026 16:29:38 | INFO | Attendance imported successfully from CSV file: C:\Users\meena\OneDrive\Desktop\sakshi\college erp management system\sample data\Untitled-1.csv
+15-08-2026 16:29:38 | INFO | Attendance imported successfully from CSV file: C:\Users\meena\OneDrive\Desktop\sakshi\college erp management system\sample data\Untitled-1.csv
+15-08-2026 16:29:38 | INFO | Attendance imported successfully from CSV file: C:\Users\meena\OneDrive\Desktop\sakshi\college erp management system\sample data\Untitled-1.csv
+15-08-2026 16:29:38 | INFO | Attendance imported successfully from CSV file: C:\Users\meena\OneDrive\Desktop\sakshi\college erp management system\sample data\Untitled-1.csv
+15-08-2026 16:29:38 | INFO | Attendance imported successfully from CSV file: C:\Users\meena\OneDrive\Desktop\sakshi\college erp management system\sample data\Untitled-1.csv
+15-08-2026 16:29:38 | INFO | Attendance imported successfully from CSV file: C:\Users\meena\OneDrive\Desktop\sakshi\college erp management system\sample data\Untitled-1.csv
+15-08-2026 16:29:38 | INFO | Attendance imported successfully from CSV file: C:\Users\meena\OneDrive\Desktop\sakshi\college erp management system\sample data\Untitled-1.csv
+15-08-2026 16:30:22 | INFO | Connected to the student database.
+15-08-2026 16:30:44 | INFO | Connected to the student database.
+15-08-2026 16:30:44 | INFO | Connected to the student database.
+15-08-2026 16:30:44 | INFO | Attendance marked successfully for Semester 1, Branch ECE
+15-08-2026 16:31:00 | INFO | Connected to the student database.
+15-08-2026 16:34:15 | INFO | Connected to the student database.
+15-08-2026 16:39:21 | INFO | Connected to the student database.
+15-08-2026 16:39:21 | INFO | Connected to the student database.
+15-08-2026 16:39:32 | INFO | Connected to the student database.
+15-08-2026 16:39:32 | INFO | Admin login successful.
+15-08-2026 16:39:42 | INFO | Connected to the student database.
+15-08-2026 16:39:42 | INFO | Connected to the student database.
+15-08-2026 16:39:42 | INFO | Attendance marked successfully for Semester 1, Branch ECE
+15-08-2026 16:39:58 | INFO | Connected to the student database.
+15-08-2026 16:43:48 | INFO | Connected to the student database.
+15-08-2026 16:43:48 | INFO | Connected to the student database.
+15-08-2026 16:44:00 | INFO | Connected to the student database.
+15-08-2026 16:44:00 | INFO | Connected to the student database.
+15-08-2026 16:44:10 | INFO | Connected to the student database.
+15-08-2026 16:44:10 | INFO | Admin login successful.
+15-08-2026 16:44:21 | INFO | Connected to the student database.
+15-08-2026 16:44:21 | INFO | Connected to the student database.
+15-08-2026 16:44:27 | ERROR | Error in executing the query
+ Error:2055: Cursor is not connected.
+15-08-2026 16:44:32 | ERROR | Error in executing the query
+ Error:2055: Cursor is not connected.
+15-08-2026 16:44:32 | INFO | Attendance marked successfully for Semester 3, Branch ECE
+15-08-2026 16:51:15 | INFO | Connected to the student database.
+15-08-2026 16:51:15 | INFO | Connected to the student database.
+15-08-2026 16:51:25 | INFO | Connected to the student database.
+15-08-2026 16:51:25 | INFO | Admin login successful.
+16-08-2026 16:39:34 | INFO | Connected to the student database.
+16-08-2026 16:39:34 | INFO | Connected to the student database.
+16-08-2026 16:39:38 | INFO | Connected to the student database.
+16-08-2026 16:39:38 | INFO | Connected to the student database.
+16-08-2026 16:39:50 | INFO | Connected to the student database.
+16-08-2026 16:39:50 | INFO | Connected to the student database.
+16-08-2026 16:39:57 | INFO | Connected to the student database.
+16-08-2026 16:39:57 | INFO | Connected to the student database.
+16-08-2026 17:03:52 | INFO | Connected to the student database.
+16-08-2026 17:03:52 | INFO | Connected to the student database.
+16-08-2026 17:04:04 | INFO | Connected to the student database.
+16-08-2026 17:04:04 | INFO | Admin login successful.
+16-08-2026 17:05:38 | INFO | Connected to the student database.
+16-08-2026 17:05:38 | INFO | Connected to the student database.
+16-08-2026 17:07:06 | INFO | Connected to the student database.
+16-08-2026 17:07:06 | INFO | Connected to the student database.
+16-08-2026 17:07:20 | INFO | Connected to the student database.
+16-08-2026 17:07:20 | INFO | Admin login successful.
+16-08-2026 17:08:14 | INFO | Connected to the student database.
+16-08-2026 17:08:14 | INFO | Connected to the student database.
+16-08-2026 17:08:26 | INFO | Connected to the student database.
+16-08-2026 17:08:26 | INFO | Admin login successful.
+16-08-2026 17:08:37 | INFO | Connected to the student database.
+16-08-2026 17:10:05 | INFO | Connected to the student database.
+16-08-2026 17:10:05 | INFO | Connected to the student database.
+16-08-2026 17:10:11 | INFO | Connected to the student database.
+16-08-2026 17:10:11 | INFO | Connected to the student database.
+16-08-2026 17:10:23 | INFO | Connected to the student database.
+16-08-2026 17:10:23 | INFO | Admin login successful.
+16-08-2026 17:10:34 | INFO | Connected to the student database.
+16-08-2026 17:10:34 | ERROR | Error in executing the query
+ Error:1366 (HY000): Incorrect integer value: 'EC301' for column 'subject_code' at row 1.
+16-08-2026 17:10:34 | ERROR | Error in executing the query
+ Error:1366 (HY000): Incorrect integer value: 'EC302' for column 'subject_code' at row 1.
+16-08-2026 17:10:34 | ERROR | Error in executing the query
+ Error:1366 (HY000): Incorrect integer value: 'CS401' for column 'subject_code' at row 1.
+16-08-2026 17:10:34 | ERROR | Error in executing the query
+ Error:1366 (HY000): Incorrect integer value: 'CS402' for column 'subject_code' at row 1.
+16-08-2026 17:10:34 | ERROR | Error in executing the query
+ Error:1366 (HY000): Incorrect integer value: 'ME501' for column 'subject_code' at row 1.
+16-08-2026 17:10:34 | INFO | File imported successfully.
+16-08-2026 17:12:54 | INFO | Connected to the student database.
+16-08-2026 17:12:54 | INFO | Connected to the student database.
+16-08-2026 17:13:06 | INFO | Connected to the student database.
+16-08-2026 17:13:06 | INFO | Admin login successful.
+16-08-2026 17:13:26 | INFO | Connected to the student database.
+16-08-2026 17:13:26 | ERROR | Error in executing the query
+ Error:1366 (HY000): Incorrect integer value: 'EC301' for column 'subject_code' at row 1.
+16-08-2026 17:13:26 | ERROR | Error in executing the query
+ Error:1366 (HY000): Incorrect integer value: 'EC302' for column 'subject_code' at row 1.
+16-08-2026 17:13:26 | ERROR | Error in executing the query
+ Error:1366 (HY000): Incorrect integer value: 'CS401' for column 'subject_code' at row 1.
+16-08-2026 17:13:26 | ERROR | Error in executing the query
+ Error:1366 (HY000): Incorrect integer value: 'CS402' for column 'subject_code' at row 1.
+16-08-2026 17:13:26 | ERROR | Error in executing the query
+ Error:1366 (HY000): Incorrect integer value: 'ME501' for column 'subject_code' at row 1.
+16-08-2026 17:13:26 | INFO | File imported successfully.
+16-08-2026 17:14:02 | INFO | Connected to the student database.
+16-08-2026 17:14:02 | INFO | Connected to the student database.
+16-08-2026 17:14:03 | INFO | Connected to the student database.
+16-08-2026 17:14:03 | INFO | Connected to the student database.
+16-08-2026 17:15:42 | INFO | Connected to the student database.
+16-08-2026 17:15:42 | INFO | Connected to the student database.
+16-08-2026 17:16:36 | INFO | Connected to the student database.
+16-08-2026 17:16:36 | ERROR | Error in executing the query
+ Error:1064 (42000): You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'IF EXISTS' at line 1.
+16-08-2026 17:16:36 | INFO | Connected to the student database.
+16-08-2026 17:16:50 | INFO | Connected to the student database.
+16-08-2026 17:16:50 | ERROR | Error in executing the query
+ Error:3730 (HY000): Cannot drop table 'subjects' referenced by a foreign key constraint 'marks_ibfk_2' on table 'marks'..
+16-08-2026 17:16:50 | INFO | Connected to the student database.
+16-08-2026 17:17:34 | INFO | Connected to the student database.
+16-08-2026 17:17:34 | INFO | Connected to the student database.
+16-08-2026 17:17:42 | INFO | Connected to the student database.
+16-08-2026 17:17:42 | INFO | Connected to the student database.
+16-08-2026 17:17:58 | INFO | Connected to the student database.
+16-08-2026 17:17:58 | INFO | Connected to the student database.
+16-08-2026 17:18:10 | INFO | Connected to the student database.
+16-08-2026 17:18:10 | INFO | Admin login successful.
+16-08-2026 17:18:22 | INFO | Connected to the student database.
+16-08-2026 17:18:22 | INFO | File imported successfully.
+16-08-2026 17:18:31 | INFO | Connected to the student database.
+16-08-2026 17:19:38 | INFO | Connected to the student database.
+16-08-2026 17:19:38 | INFO | Connected to the student database.
+16-08-2026 17:19:38 | INFO | Subject added successfully with Subject ID 5
+16-08-2026 17:19:38 | ERROR | Error in executing the query
+ Error:2055: Cursor is not connected.
+16-08-2026 17:25:14 | INFO | Connected to the student database.
+16-08-2026 17:25:14 | INFO | Connected to the student database.
+16-08-2026 17:25:24 | INFO | Connected to the student database.
+16-08-2026 17:25:24 | INFO | Admin login successful.
+16-08-2026 17:25:31 | INFO | Connected to the student database.
+16-08-2026 17:25:59 | INFO | Connected to the student database.
+16-08-2026 17:25:59 | INFO | Subject added successfully with Subject ID 3
+16-08-2026 17:28:47 | INFO | Connected to the student database.
+16-08-2026 17:28:51 | INFO | Connected to the student database.
+16-08-2026 17:29:04 | INFO | Connected to the student database.
+17-08-2026 17:06:22 | INFO | Connected to the student database.
+17-08-2026 17:06:22 | INFO | Connected to the student database.
+17-08-2026 17:06:38 | INFO | Connected to the student database.
+17-08-2026 17:06:38 | INFO | Admin login successful.
+17-08-2026 17:09:43 | INFO | Connected to the student database.
+17-08-2026 17:09:43 | INFO | Connected to the student database.
+17-08-2026 17:10:46 | INFO | Connected to the student database.
+17-08-2026 17:10:46 | WARNING | Failed login attempt for Roll No 101
+17-08-2026 17:13:31 | INFO | Connected to the student database.
+17-08-2026 17:13:31 | INFO | Connected to the student database.
+17-08-2026 17:13:35 | INFO | Connected to the student database.
+17-08-2026 17:13:35 | INFO | Connected to the student database.
+17-08-2026 17:13:59 | INFO | Connected to the student database.
+17-08-2026 17:13:59 | INFO | Admin login successful.
+17-08-2026 17:14:21 | INFO | Connected to the student database.
+17-08-2026 17:14:55 | INFO | Connected to the student database.
+17-08-2026 17:14:55 | INFO | Connected to the student database.
+23-08-2026 17:04:55 | INFO | Connected to the student database.
+23-08-2026 17:04:55 | INFO | Connected to the student database.
+23-08-2026 17:05:07 | INFO | Connected to the student database.
+23-08-2026 17:05:07 | INFO | Admin login successful.
+23-08-2026 17:05:58 | INFO | Connected to the student database.
+23-08-2026 17:05:58 | INFO | Marks imported successfully from CSV file: C:\Users\meena\OneDrive\Desktop\sakshi\college erp management system\sample data\marks.csv
+23-08-2026 17:05:58 | INFO | Marks imported successfully from CSV file: C:\Users\meena\OneDrive\Desktop\sakshi\college erp management system\sample data\marks.csv
+23-08-2026 17:05:58 | INFO | Marks imported successfully from CSV file: C:\Users\meena\OneDrive\Desktop\sakshi\college erp management system\sample data\marks.csv
+23-08-2026 17:05:58 | INFO | Marks imported successfully from CSV file: C:\Users\meena\OneDrive\Desktop\sakshi\college erp management system\sample data\marks.csv
+23-08-2026 17:05:58 | INFO | Marks imported successfully from CSV file: C:\Users\meena\OneDrive\Desktop\sakshi\college erp management system\sample data\marks.csv
+23-08-2026 17:05:58 | INFO | Marks imported successfully from CSV file: C:\Users\meena\OneDrive\Desktop\sakshi\college erp management system\sample data\marks.csv
+23-08-2026 17:05:58 | INFO | Marks imported successfully from CSV file: C:\Users\meena\OneDrive\Desktop\sakshi\college erp management system\sample data\marks.csv
+23-08-2026 17:05:58 | INFO | Marks imported successfully from CSV file: C:\Users\meena\OneDrive\Desktop\sakshi\college erp management system\sample data\marks.csv
+23-08-2026 17:05:58 | INFO | Marks imported successfully from CSV file: C:\Users\meena\OneDrive\Desktop\sakshi\college erp management system\sample data\marks.csv
+23-08-2026 17:08:04 | INFO | Connected to the student database.
+23-08-2026 17:08:04 | INFO | Connected to the student database.
+23-08-2026 17:08:11 | INFO | Connected to the student database.
+23-08-2026 17:08:11 | INFO | Connected to the student database.
+23-08-2026 17:08:20 | INFO | Connected to the student database.
+23-08-2026 17:08:20 | INFO | Admin login successful.
+23-08-2026 17:08:34 | INFO | Connected to the student database.
+23-08-2026 17:08:34 | ERROR | Error in executing the query
+ Error:1062 (23000): Duplicate entry '101-301' for key 'marks.PRIMARY'.
+23-08-2026 17:08:34 | INFO | Marks imported successfully from CSV file: C:\Users\meena\OneDrive\Desktop\sakshi\college erp management system\sample data\marks.csv
+23-08-2026 17:08:34 | ERROR | Error in executing the query
+ Error:1062 (23000): Duplicate entry '101-302' for key 'marks.PRIMARY'.
+23-08-2026 17:08:34 | INFO | Marks imported successfully from CSV file: C:\Users\meena\OneDrive\Desktop\sakshi\college erp management system\sample data\marks.csv
+23-08-2026 17:08:34 | ERROR | Error in executing the query
+ Error:1062 (23000): Duplicate entry '102-301' for key 'marks.PRIMARY'.
+23-08-2026 17:08:34 | INFO | Marks imported successfully from CSV file: C:\Users\meena\OneDrive\Desktop\sakshi\college erp management system\sample data\marks.csv
+23-08-2026 17:08:34 | ERROR | Error in executing the query
+ Error:1062 (23000): Duplicate entry '102-302' for key 'marks.PRIMARY'.
+23-08-2026 17:08:34 | INFO | Marks imported successfully from CSV file: C:\Users\meena\OneDrive\Desktop\sakshi\college erp management system\sample data\marks.csv
+23-08-2026 17:08:34 | ERROR | Error in executing the query
+ Error:1062 (23000): Duplicate entry '103-401' for key 'marks.PRIMARY'.
+23-08-2026 17:08:34 | INFO | Marks imported successfully from CSV file: C:\Users\meena\OneDrive\Desktop\sakshi\college erp management system\sample data\marks.csv
+23-08-2026 17:08:34 | ERROR | Error in executing the query
+ Error:1062 (23000): Duplicate entry '103-402' for key 'marks.PRIMARY'.
+23-08-2026 17:08:34 | INFO | Marks imported successfully from CSV file: C:\Users\meena\OneDrive\Desktop\sakshi\college erp management system\sample data\marks.csv
+23-08-2026 17:08:34 | ERROR | Error in executing the query
+ Error:1062 (23000): Duplicate entry '104-401' for key 'marks.PRIMARY'.
+23-08-2026 17:08:34 | INFO | Marks imported successfully from CSV file: C:\Users\meena\OneDrive\Desktop\sakshi\college erp management system\sample data\marks.csv
+23-08-2026 17:08:34 | ERROR | Error in executing the query
+ Error:1062 (23000): Duplicate entry '104-402' for key 'marks.PRIMARY'.
+23-08-2026 17:08:34 | INFO | Marks imported successfully from CSV file: C:\Users\meena\OneDrive\Desktop\sakshi\college erp management system\sample data\marks.csv
+23-08-2026 17:08:34 | ERROR | Error in executing the query
+ Error:1062 (23000): Duplicate entry '105-501' for key 'marks.PRIMARY'.
+23-08-2026 17:08:34 | INFO | Marks imported successfully from CSV file: C:\Users\meena\OneDrive\Desktop\sakshi\college erp management system\sample data\marks.csv
+23-08-2026 17:09:45 | INFO | Connected to the student database.
+23-08-2026 17:09:45 | INFO | Connected to the student database.
+23-08-2026 17:13:16 | INFO | Connected to the student database.
+23-08-2026 17:13:16 | INFO | Connected to the student database.
+23-08-2026 17:13:27 | INFO | Connected to the student database.
+23-08-2026 17:13:27 | WARNING | Failed login attempt for Roll No 101
+23-08-2026 17:13:38 | INFO | Connected to the student database.
+23-08-2026 17:13:38 | INFO | Admin login successful.
+23-08-2026 17:13:54 | INFO | Connected to the student database.
+23-08-2026 17:23:03 | INFO | Connected to the student database.
+23-08-2026 17:23:03 | INFO | Connected to the student database.
+23-08-2026 17:23:16 | INFO | Connected to the student database.
+23-08-2026 17:23:16 | INFO | Admin login successful.
+23-08-2026 17:23:26 | INFO | Adding marks for semester 2 and branch ECE
+23-08-2026 17:23:26 | INFO | Connected to the student database.
+23-08-2026 17:23:26 | INFO | Connected to the student database.
+23-08-2026 17:23:38 | INFO | Connected to the student database.
+23-08-2026 17:24:07 | INFO | Adding marks for semester 4 and branch ECE
+23-08-2026 17:24:07 | INFO | Connected to the student database.
+23-08-2026 17:24:07 | INFO | Connected to the student database.
+25-08-2026 21:12:32 | INFO | Connected to the student database.
+25-08-2026 21:12:32 | INFO | Connected to the student database.
+25-08-2026 21:12:45 | INFO | Connected to the student database.
+25-08-2026 21:12:45 | WARNING | Failed login attempt for Roll No 101
+25-08-2026 21:12:56 | INFO | Connected to the student database.
+25-08-2026 21:12:56 | INFO | Admin login successful.
+25-08-2026 21:13:03 | INFO | Connected to the student database.
+25-08-2026 21:14:40 | INFO | Connected to the student database.
+25-08-2026 21:14:40 | INFO | Connected to the student database.
+25-08-2026 21:22:58 | INFO | Connected to the student database.
+25-08-2026 21:23:02 | INFO | Connected to the student database.
+25-08-2026 21:29:59 | INFO | Connected to the student database.
+25-08-2026 21:29:59 | INFO | Connected to the student database.
+25-08-2026 21:30:44 | INFO | Connected to the student database.
+25-08-2026 21:30:44 | INFO | Connected to the student database.
+25-08-2026 21:30:54 | INFO | Connected to the student database.
+25-08-2026 21:30:54 | INFO | Admin login successful.
+25-08-2026 21:34:04 | INFO | Connected to the student database.
+25-08-2026 21:34:04 | INFO | Connected to the student database.
+25-08-2026 21:34:21 | INFO | Connected to the student database.
+25-08-2026 21:34:21 | INFO | Connected to the student database.
+25-08-2026 21:34:26 | INFO | Connected to the student database.
+25-08-2026 21:34:26 | INFO | Connected to the student database.
+25-08-2026 21:34:29 | INFO | Connected to the student database.
+25-08-2026 21:34:29 | INFO | Connected to the student database.
+25-08-2026 21:34:41 | INFO | Connected to the student database.
+25-08-2026 21:34:41 | INFO | Connected to the student database.
+25-08-2026 21:34:51 | INFO | Connected to the student database.
+25-08-2026 21:34:51 | INFO | Admin login successful.
+25-08-2026 21:36:20 | INFO | Connected to the student database.
+25-08-2026 21:36:20 | INFO | Student added successfully for Roll No 106
+25-08-2026 21:40:26 | INFO | Connected to the student database.
+25-08-2026 21:42:29 | INFO | Connected to the student database.
+25-08-2026 21:42:52 | INFO | Connected to the student database.
+25-08-2026 21:42:52 | INFO | Connected to the student database.
+25-08-2026 21:44:32 | INFO | Connected to the student database.
+25-08-2026 21:44:32 | WARNING | Failed admin login attempt with username: admin
+25-08-2026 21:44:44 | INFO | Connected to the student database.
+25-08-2026 21:44:44 | INFO | Admin login successful.
+25-08-2026 21:44:55 | INFO | Connected to the student database.
+25-08-2026 21:46:06 | INFO | Connected to the student database.
+25-08-2026 21:46:06 | INFO | Connected to the student database.
+25-08-2026 21:46:12 | INFO | Connected to the student database.
+25-08-2026 21:46:12 | INFO | Connected to the student database.
+25-08-2026 21:46:21 | INFO | Connected to the student database.
+25-08-2026 21:46:21 | INFO | Admin login successful.
+25-08-2026 21:46:27 | INFO | Connected to the student database.
+25-08-2026 21:47:02 | INFO | Connected to the student database.
+25-08-2026 21:47:02 | INFO | Connected to the student database.
+25-08-2026 21:47:07 | INFO | Connected to the student database.
+25-08-2026 21:47:07 | INFO | Connected to the student database.
+25-08-2026 21:47:08 | INFO | Connected to the student database.
+25-08-2026 21:47:08 | INFO | Connected to the student database.
+25-08-2026 21:47:17 | INFO | Connected to the student database.
+25-08-2026 21:47:17 | INFO | Connected to the student database.
+25-08-2026 21:47:28 | INFO | Connected to the student database.
+25-08-2026 21:47:28 | WARNING | Failed admin login attempt with username: admin
+25-08-2026 21:47:38 | INFO | Connected to the student database.
+25-08-2026 21:47:38 | INFO | Admin login successful.
+25-08-2026 21:47:45 | INFO | Connected to the student database.
+25-08-2026 21:48:43 | INFO | Connected to the student database.
+25-08-2026 21:48:43 | INFO | Connected to the student database.
+25-08-2026 21:48:52 | INFO | Connected to the student database.
+25-08-2026 21:48:52 | INFO | Admin login successful.
+25-08-2026 21:49:00 | INFO | Connected to the student database.
+25-08-2026 21:49:10 | INFO | Student updated successfully for Roll No 106
+25-08-2026 21:49:20 | INFO | Connected to the student database.
+25-08-2026 21:51:21 | INFO | Connected to the student database.
+25-08-2026 21:51:21 | INFO | Connected to the student database.
+25-08-2026 21:51:27 | INFO | Connected to the student database.
+25-08-2026 21:51:27 | INFO | Connected to the student database.
+25-08-2026 21:53:06 | INFO | Connected to the student database.
+25-08-2026 21:53:06 | WARNING | Failed admin login attempt with username: admin
+25-08-2026 21:53:18 | INFO | Connected to the student database.
+25-08-2026 21:53:18 | INFO | Admin login successful.
+25-08-2026 21:53:25 | INFO | Connected to the student database.
+25-08-2026 21:53:43 | INFO | Student updated successfully for Roll No 106
+25-08-2026 21:53:52 | INFO | Connected to the student database.
+25-08-2026 21:54:55 | INFO | Connected to the student database.
+25-08-2026 21:55:49 | INFO | Connected to the student database.
+25-08-2026 21:55:49 | INFO | Student deleted successfully for Roll No 106
+25-08-2026 21:55:55 | INFO | Connected to the student database.
+25-08-2026 21:57:20 | INFO | Connected to the student database.
+25-08-2026 21:59:12 | INFO | Connected to the student database.
+25-08-2026 21:59:12 | INFO | Connected to the student database.
+25-08-2026 22:03:06 | INFO | Connected to the student database.
+25-08-2026 22:03:06 | INFO | Connected to the student database.
+25-08-2026 22:03:13 | INFO | Connected to the student database.
+25-08-2026 22:03:13 | INFO | Connected to the student database.
+25-08-2026 22:03:24 | INFO | Connected to the student database.
+25-08-2026 22:03:24 | INFO | Admin login successful.
+25-08-2026 22:03:44 | INFO | Connected to the student database.
+25-08-2026 22:03:59 | INFO | Connected to the student database.
+25-08-2026 22:04:15 | INFO | Connected to the student database.
+25-08-2026 22:06:49 | INFO | Connected to the student database.
+25-08-2026 22:06:49 | INFO | Connected to the student database.
+25-08-2026 22:07:00 | INFO | Connected to the student database.
+25-08-2026 22:07:00 | INFO | Admin login successful.
+26-08-2026 14:33:24 | INFO | Connected to the student database.
+26-08-2026 14:33:24 | INFO | Connected to the student database.
+26-08-2026 14:33:34 | INFO | Connected to the student database.
+26-08-2026 14:33:34 | INFO | Admin login successful.
+26-08-2026 14:34:04 | INFO | Connected to the student database.
+26-08-2026 14:34:04 | INFO | Connected to the student database.
+26-08-2026 14:34:14 | INFO | Connected to the student database.
+26-08-2026 14:34:14 | INFO | Admin login successful.
+26-08-2026 14:35:25 | INFO | Connected to the student database.
+26-08-2026 14:35:25 | INFO | Student added successfully for Roll No 106
+26-08-2026 14:35:40 | INFO | Connected to the student database.
+26-08-2026 14:35:41 | INFO | Fees added successfully for Roll No 106
+26-08-2026 14:35:46 | INFO | Connected to the student database.
+26-08-2026 14:43:17 | INFO | Connected to the student database.
+26-08-2026 14:43:17 | INFO | Connected to the student database.
+26-08-2026 14:43:32 | INFO | Connected to the student database.
+26-08-2026 14:43:32 | INFO | Admin login successful.
+26-08-2026 14:43:51 | INFO | Connected to the student database.
+26-08-2026 14:43:56 | INFO | Connected to the student database.
+26-08-2026 14:45:05 | INFO | Connected to the student database.
+26-08-2026 14:45:23 | INFO | Connected to the student database.
+26-08-2026 14:45:38 | INFO | Attendance marked successfully for Semester 4, Branch CSE
+26-08-2026 14:46:13 | INFO | Connected to the student database.
+26-08-2026 14:51:36 | INFO | Connected to the student database.
+26-08-2026 14:51:36 | INFO | Connected to the student database.
+28-08-2026 15:45:51 | INFO | Connected to the student database.
+28-08-2026 15:45:51 | INFO | Connected to the student database.
+28-08-2026 15:46:15 | INFO | Connected to the student database.
+28-08-2026 15:46:17 | INFO | Connected to the student database.
+28-08-2026 15:46:26 | INFO | Connected to the student database.
+28-08-2026 15:48:29 | INFO | Connected to the student database.
+28-08-2026 15:48:29 | WARNING | Failed admin login attempt with username: python -u "c:\Users\meena\OneDrive\Desktop\sakshi\college erp management system\main menu.py"
+28-08-2026 15:48:39 | INFO | Connected to the student database.
+28-08-2026 15:48:39 | INFO | Admin login successful.
+28-08-2026 15:48:46 | INFO | Connected to the student database.
+28-08-2026 15:48:46 | INFO | Connected to the student database.
+28-08-2026 15:49:28 | INFO | Connected to the student database.
+28-08-2026 15:49:28 | INFO | Connected to the student database.
+28-08-2026 15:49:38 | INFO | Connected to the student database.
+28-08-2026 15:49:38 | INFO | Admin login successful.
+28-08-2026 15:49:44 | INFO | Connected to the student database.
+28-08-2026 15:49:44 | INFO | Fees deleted successfully for Roll No 106
+28-08-2026 15:49:55 | INFO | Connected to the student database.
+28-08-2026 15:49:55 | INFO | Fees added successfully for Roll No 106
+28-08-2026 15:50:04 | INFO | Connected to the student database.
+28-08-2026 15:50:28 | INFO | Connected to the student database.
+28-08-2026 15:53:26 | INFO | Connected to the student database.
+28-08-2026 15:53:26 | INFO | Connected to the student database.
+28-08-2026 15:53:37 | INFO | Connected to the student database.
+28-08-2026 15:53:37 | INFO | Admin login successful.
+28-08-2026 15:53:45 | INFO | Connected to the student database.
+28-08-2026 15:53:53 | INFO | Connected to the student database.
+28-08-2026 15:54:15 | INFO | Attendance marked successfully for Semester 3, Branch ECE
+28-08-2026 15:54:26 | INFO | Connected to the student database.
+28-08-2026 15:55:04 | INFO | Connected to the student database.
+28-08-2026 16:03:48 | INFO | Connected to the student database.
+28-08-2026 16:03:48 | INFO | Connected to the student database.
+28-08-2026 16:03:57 | INFO | Connected to the student database.
+28-08-2026 16:03:57 | INFO | Admin login successful.
+28-08-2026 16:04:08 | INFO | Connected to the student database.
+28-08-2026 16:04:08 | ERROR | Error in fetching the query
+ Error:1146 (42S02): Table 'studentdatabase.maarks' doesn't exist.
+28-08-2026 16:04:19 | INFO | Adding marks for semester 3 and branch ECE
+28-08-2026 16:04:19 | INFO | Connected to the student database.
+28-08-2026 16:04:19 | INFO | Connected to the student database.
+28-08-2026 16:04:39 | INFO | Connected to the student database.
+28-08-2026 16:04:39 | INFO | Connected to the student database.
+28-08-2026 16:04:57 | ERROR | Error in executing the query
+ Error:2055: Cursor is not connected.
+28-08-2026 16:07:30 | INFO | Connected to the student database.
+28-08-2026 16:07:30 | INFO | Connected to the student database.
+28-08-2026 16:07:38 | INFO | Connected to the student database.
+28-08-2026 16:07:38 | INFO | Connected to the student database.
+28-08-2026 16:08:39 | INFO | Connected to the student database.
+28-08-2026 16:08:39 | INFO | Admin login successful.
+28-08-2026 16:10:05 | INFO | Adding marks for semester 3 and branch ECE
+28-08-2026 16:10:05 | INFO | Connected to the student database.
+28-08-2026 16:10:05 | INFO | Connected to the student database.
+28-08-2026 16:10:08 | INFO | Connected to the student database.
+28-08-2026 16:10:08 | INFO | Connected to the student database.
+28-08-2026 16:10:14 | ERROR | Error in executing the query
+ Error:2055: Cursor is not connected.
+28-08-2026 16:10:20 | ERROR | Error in executing the query
+ Error:2055: Cursor is not connected.
+28-08-2026 16:10:31 | ERROR | Error in executing the query
+ Error:2055: Cursor is not connected.
+28-08-2026 16:10:31 | INFO | Marks added successfully.
+28-08-2026 16:13:23 | INFO | Connected to the student database.
+28-08-2026 16:13:23 | INFO | Connected to the student database.
+28-08-2026 16:13:28 | INFO | Connected to the student database.
+28-08-2026 16:13:28 | INFO | Connected to the student database.
+28-08-2026 16:13:35 | INFO | Connected to the student database.
+28-08-2026 16:13:35 | INFO | Connected to the student database.
+28-08-2026 16:13:44 | INFO | Connected to the student database.
+28-08-2026 16:13:44 | INFO | Admin login successful.
+28-08-2026 16:13:52 | INFO | Adding marks for semester 3 and branch ECE
+28-08-2026 16:13:52 | INFO | Connected to the student database.
+28-08-2026 16:13:52 | INFO | Connected to the student database.
+28-08-2026 16:19:13 | INFO | Connected to the student database.
+28-08-2026 16:19:13 | INFO | Connected to the student database.
+28-08-2026 16:19:23 | INFO | Connected to the student database.
+28-08-2026 16:19:23 | INFO | Admin login successful.
+28-08-2026 16:19:30 | INFO | Adding marks for semester 3 and branch ECE
+28-08-2026 16:19:31 | INFO | Connected to the student database.
+28-08-2026 16:19:31 | INFO | Connected to the student database.
+28-08-2026 16:19:37 | INFO | Connected to the student database.
+28-08-2026 16:19:37 | INFO | Connected to the student database.
+28-08-2026 16:19:44 | ERROR | Error in executing the query
+ Error:2055: Cursor is not connected.
+28-08-2026 16:19:50 | ERROR | Error in executing the query
+ Error:2055: Cursor is not connected.
+28-08-2026 16:19:53 | ERROR | Error in executing the query
+ Error:2055: Cursor is not connected.
+28-08-2026 16:19:53 | INFO | Marks added successfully.
+28-08-2026 16:21:04 | INFO | Connected to the student database.
+28-08-2026 16:21:04 | INFO | Connected to the student database.
+28-08-2026 16:21:14 | INFO | Connected to the student database.
+28-08-2026 16:21:14 | INFO | Admin login successful.
+28-08-2026 16:21:20 | INFO | Adding marks for semester 3 and branch ECE
+28-08-2026 16:21:20 | INFO | Connected to the student database.
+28-08-2026 16:21:20 | INFO | Connected to the student database.
+28-08-2026 16:21:24 | INFO | Connected to the student database.
+28-08-2026 16:21:30 | ERROR | Error in executing the query
+ Error:1062 (23000): Duplicate entry '101-301' for key 'marks.PRIMARY'.
+28-08-2026 16:21:37 | ERROR | Error in executing the query
+ Error:1062 (23000): Duplicate entry '102-301' for key 'marks.PRIMARY'.
+28-08-2026 16:21:40 | INFO | Marks added successfully.
+28-08-2026 16:22:02 | INFO | Connected to the student database.
+28-08-2026 16:22:02 | ERROR | Error in fetching the query
+ Error:1146 (42S02): Table 'studentdatabase.maarks' doesn't exist.
+28-08-2026 16:22:13 | INFO | Connected to the student database.
+28-08-2026 16:22:21 | INFO | Connected to the student database.
+28-08-2026 16:22:21 | ERROR | Error in fetching the query
+ Error:1146 (42S02): Table 'studentdatabase.maarks' doesn't exist.
+28-08-2026 16:22:57 | INFO | Connected to the student database.
+28-08-2026 16:22:57 | INFO | Connected to the student database.
+28-08-2026 16:23:06 | INFO | Connected to the student database.
+28-08-2026 16:23:06 | INFO | Connected to the student database.
+28-08-2026 16:23:12 | INFO | Connected to the student database.
+28-08-2026 16:23:12 | WARNING | Failed admin login attempt with username: 
+28-08-2026 16:23:20 | INFO | Connected to the student database.
+28-08-2026 16:23:20 | INFO | Admin login successful.
+28-08-2026 16:23:30 | INFO | Connected to the student database.
+28-08-2026 16:23:30 | ERROR | Error in fetching the query
+ Error:1146 (42S02): Table 'studentdatabase.maarks' doesn't exist.
+28-08-2026 16:25:18 | INFO | Connected to the student database.
+28-08-2026 16:25:18 | INFO | Connected to the student database.
+28-08-2026 16:25:28 | INFO | Connected to the student database.
+28-08-2026 16:25:28 | INFO | Admin login successful.
+28-08-2026 16:25:35 | INFO | Connected to the student database.
+28-08-2026 16:28:01 | INFO | Connected to the student database.
+28-08-2026 16:28:01 | INFO | Connected to the student database.
+28-08-2026 16:30:43 | INFO | Connected to the student database.
+28-08-2026 16:30:43 | INFO | Admin login successful.
+28-08-2026 16:30:54 | INFO | Connected to the student database.
+28-08-2026 16:30:54 | INFO | Marks deleted successfully for Roll No 104 and Subject ID 301
+28-08-2026 16:34:58 | INFO | Connected to the student database.
+28-08-2026 16:34:58 | INFO | Connected to the student database.
+28-08-2026 16:35:03 | INFO | Connected to the student database.
+28-08-2026 16:35:03 | INFO | Connected to the student database.
+28-08-2026 16:35:12 | INFO | Connected to the student database.
+28-08-2026 16:35:12 | INFO | Admin login successful.
+28-08-2026 16:35:25 | INFO | Connected to the student database.
+28-08-2026 16:35:31 | INFO | Marks updated successfully for Roll No 106 and Subject ID 301
+28-08-2026 16:35:40 | INFO | Connected to the student database.
+28-08-2026 16:35:55 | INFO | Connected to the student database.
+28-08-2026 16:35:55 | ERROR | Error in executing the query
+ Error:1064 (42000): You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'WHERE subject_id = 3' at line 1.
+28-08-2026 16:35:55 | INFO | Subject updated successfully with Subject ID 3
+28-08-2026 16:40:30 | INFO | Connected to the student database.
+28-08-2026 16:40:30 | INFO | Connected to the student database.
+28-08-2026 16:40:40 | INFO | Connected to the student database.
+28-08-2026 16:40:40 | INFO | Connected to the student database.
+28-08-2026 16:40:51 | INFO | Connected to the student database.
+28-08-2026 16:40:51 | INFO | Admin login successful.
+28-08-2026 16:41:33 | INFO | Connected to the student database.
+28-08-2026 16:41:33 | ERROR | Error in executing the query
+ Error:1064 (42000): You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'WHERE subject_id = 3' at line 1.
+28-08-2026 16:41:33 | INFO | Subject updated successfully with Subject ID 3
+28-08-2026 16:45:23 | INFO | Connected to the student database.
+28-08-2026 16:45:23 | INFO | Connected to the student database.
+28-08-2026 16:45:31 | INFO | Connected to the student database.
+28-08-2026 16:45:31 | INFO | Admin login successful.
+28-08-2026 16:45:39 | INFO | Connected to the student database.
+28-08-2026 16:45:39 | ERROR | Error in executing the query
+ Error:1064 (42000): You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'WHERE subject_id = 3' at line 1.
+28-08-2026 16:45:39 | INFO | Subject updated successfully with Subject ID 3
+30-08-2026 11:40:00 | INFO | Connected to the student database.
+30-08-2026 11:40:00 | INFO | Connected to the student database.
+30-08-2026 15:16:19 | ERROR | Error in creating the database
+ Error:2017 (HY000): Can't open named pipe to host: .  pipe: MySQL (2).
+30-08-2026 15:16:19 | ERROR | Error in connecting to the database
+ Error:2017 (HY000): Can't open named pipe to host: .  pipe: MySQL (2).
+30-08-2026 15:16:19 | ERROR | Error in connecting to the database
+ Error:2017 (HY000): Can't open named pipe to host: .  pipe: MySQL (2).
+30-08-2026 15:16:32 | ERROR | Error in creating the database
+ Error:2017 (HY000): Can't open named pipe to host: .  pipe: MySQL (2).
+30-08-2026 15:16:32 | ERROR | Error in connecting to the database
+ Error:2017 (HY000): Can't open named pipe to host: .  pipe: MySQL (2).
+30-08-2026 15:16:32 | ERROR | Error in connecting to the database
+ Error:2017 (HY000): Can't open named pipe to host: .  pipe: MySQL (2).
+30-08-2026 15:17:01 | ERROR | Error in creating the database
+ Error:2017 (HY000): Can't open named pipe to host: .  pipe: MySQL (2).
+30-08-2026 15:17:01 | ERROR | Error in connecting to the database
+ Error:2017 (HY000): Can't open named pipe to host: .  pipe: MySQL (2).
+30-08-2026 15:17:01 | ERROR | Error in connecting to the database
+ Error:2017 (HY000): Can't open named pipe to host: .  pipe: MySQL (2).
+30-08-2026 15:17:43 | ERROR | Error in creating the database
+ Error:2017 (HY000): Can't open named pipe to host: .  pipe: MySQL (2).
+30-08-2026 15:17:43 | ERROR | Error in connecting to the database
+ Error:2017 (HY000): Can't open named pipe to host: .  pipe: MySQL (2).
+30-08-2026 15:17:43 | ERROR | Error in connecting to the database
+ Error:2017 (HY000): Can't open named pipe to host: .  pipe: MySQL (2).
+30-08-2026 15:22:30 | ERROR | Error in creating the database
+ Error:2017 (HY000): Can't open named pipe to host: .  pipe: MySQL (2).
+30-08-2026 15:22:30 | ERROR | Error in connecting to the database
+ Error:2017 (HY000): Can't open named pipe to host: .  pipe: MySQL (2).
+30-08-2026 15:26:03 | ERROR | Error in creating the database
+ Error:1045 (28000): Access denied for user 'root'@'localhost' (using password: YES).
+30-08-2026 15:26:03 | ERROR | Error in connecting to the database
+ Error:1045 (28000): Access denied for user 'root'@'localhost' (using password: YES).
+30-08-2026 15:26:07 | ERROR | Error in creating the database
+ Error:1045 (28000): Access denied for user 'root'@'localhost' (using password: YES).
+30-08-2026 15:26:08 | ERROR | Error in connecting to the database
+ Error:1045 (28000): Access denied for user 'root'@'localhost' (using password: YES).
+30-08-2026 15:26:13 | ERROR | Error in creating the database
+ Error:1045 (28000): Access denied for user 'root'@'localhost' (using password: YES).
+30-08-2026 15:26:13 | ERROR | Error in connecting to the database
+ Error:1045 (28000): Access denied for user 'root'@'localhost' (using password: YES).
+30-08-2026 15:26:15 | ERROR | Error in creating the database
+ Error:1045 (28000): Access denied for user 'root'@'localhost' (using password: YES).
+30-08-2026 15:26:15 | ERROR | Error in connecting to the database
+ Error:1045 (28000): Access denied for user 'root'@'localhost' (using password: YES).
+30-08-2026 15:29:06 | ERROR | Error in creating the database
+ Error:1045 (28000): Access denied for user 'root'@'localhost' (using password: YES).
+30-08-2026 15:29:06 | ERROR | Error in connecting to the database
+ Error:1045 (28000): Access denied for user 'root'@'localhost' (using password: YES).
+30-08-2026 15:29:12 | ERROR | Error in creating the database
+ Error:1045 (28000): Access denied for user 'root'@'localhost' (using password: YES).
+30-08-2026 15:29:12 | ERROR | Error in connecting to the database
+ Error:1045 (28000): Access denied for user 'root'@'localhost' (using password: YES).
+30-08-2026 15:32:01 | ERROR | Error in creating the database
+ Error:1045 (28000): Access denied for user 'root'@'localhost' (using password: YES).
+30-08-2026 15:32:01 | ERROR | Error in connecting to the database
+ Error:1045 (28000): Access denied for user 'root'@'localhost' (using password: YES).
+30-08-2026 15:34:46 | ERROR | Error in creating the database
+ Error:1045 (28000): Access denied for user 'root'@'localhost' (using password: YES).
+30-08-2026 15:34:46 | ERROR | Error in connecting to the database
+ Error:1045 (28000): Access denied for user 'root'@'localhost' (using password: YES).
+30-08-2026 15:35:00 | ERROR | Error in creating the database
+ Error:1045 (28000): Access denied for user 'root'@'localhost' (using password: YES).
+30-08-2026 15:35:00 | ERROR | Error in connecting to the database
+ Error:1045 (28000): Access denied for user 'root'@'localhost' (using password: YES).
+30-08-2026 15:36:28 | ERROR | Error in creating the database
+ Error:1045 (28000): Access denied for user 'root'@'localhost' (using password: YES).
+30-08-2026 15:36:28 | ERROR | Error in connecting to the database
+ Error:1045 (28000): Access denied for user 'root'@'localhost' (using password: YES).
+30-08-2026 15:36:28 | ERROR | Error in creating the database
+ Error:1045 (28000): Access denied for user 'root'@'localhost' (using password: YES).
+30-08-2026 15:36:28 | ERROR | Error in connecting to the database
+ Error:1045 (28000): Access denied for user 'root'@'localhost' (using password: YES).
+30-08-2026 15:39:14 | INFO | Connected to the student database.
+30-08-2026 15:39:33 | INFO | Connected to the student database.
+30-08-2026 15:39:47 | INFO | Admin login successful.
+30-08-2026 15:40:09 | INFO | Connected to the student database.
+30-08-2026 15:40:13 | INFO | Connected to the student database.
+30-08-2026 15:40:49 | INFO | Connected to the student database.
+30-08-2026 15:44:22 | INFO | Connected to the student database.
+30-08-2026 15:44:36 | INFO | Connected to the student database.
+30-08-2026 15:44:39 | INFO | Connected to the student database.
+30-08-2026 15:44:50 | INFO | Connected to the student database.
+30-08-2026 15:45:39 | INFO | Password reset successfully for Roll No 106
+30-08-2026 15:45:48 | INFO | Connected to the student database.
+30-08-2026 15:45:56 | INFO | Connected to the student database.
+30-08-2026 16:38:49 | INFO | Connected to the student database.
+30-08-2026 16:39:27 | INFO | Admin login successful.
+30-08-2026 16:39:33 | INFO | Connected to the student database.
+30-08-2026 16:41:47 | INFO | Connected to the student database.
+30-08-2026 16:42:25 | INFO | Connected to the student database.
+30-08-2026 16:42:55 | INFO | Admin login successful.
+30-08-2026 16:43:00 | INFO | Connected to the student database.
+30-08-2026 16:44:30 | INFO | Connected to the student database.
+30-08-2026 16:44:35 | INFO | Connected to the student database.
+30-08-2026 16:44:44 | INFO | Admin login successful.
+30-08-2026 16:44:48 | INFO | Connected to the student database.
+30-08-2026 16:45:12 | INFO | marks analysis viewed
+30-08-2026 16:47:17 | INFO | Connected to the student database.
+30-08-2026 16:47:27 | INFO | Risk analysis viewed. 4 students flagged at risk.
+30-08-2026 16:50:19 | INFO | Connected to the student database.
+30-08-2026 16:50:29 | INFO | Admin login successful.
+30-08-2026 16:50:36 | INFO | Connected to the student database.
+30-08-2026 16:50:55 | INFO | Risk analysis viewed. 4 students flagged at risk.
+30-08-2026 17:04:04 | INFO | Connected to the student database.
+01-09-2026 18:07:57 | INFO | Connected to the student database.
+01-09-2026 18:08:08 | INFO | Connected to the student database.
+01-09-2026 18:08:08 | WARNING | Failed login attempt for Roll No 106
+01-09-2026 18:16:00 | INFO | Connected to the student database.
+01-09-2026 18:16:05 | INFO | Connected to the student database.
+01-09-2026 18:16:46 | INFO | Password reset successfully for Roll No 106
+01-09-2026 18:17:02 | INFO | Connected to the student database.
+01-09-2026 18:17:02 | WARNING | Failed login attempt for Roll No 106
+01-09-2026 18:19:02 | INFO | Admin login successful.
+01-09-2026 18:19:14 | INFO | Connected to the student database.
+01-09-2026 18:19:22 | INFO | Student performance analysis viewed.
+01-09-2026 18:19:28 | INFO | Connected to the student database.
+01-09-2026 18:20:46 | INFO | Connected to the student database.
+01-09-2026 18:20:53 | INFO | Connected to the student database.
+01-09-2026 18:20:54 | INFO | Connected to the student database.
+01-09-2026 18:20:55 | INFO | Connected to the student database.
+01-09-2026 18:20:57 | INFO | Connected to the student database.
+01-09-2026 18:21:01 | INFO | Connected to the student database.
+01-09-2026 18:21:11 | INFO | Admin login successful.
+01-09-2026 18:21:16 | INFO | Connected to the student database.
+01-09-2026 18:21:20 | INFO | Fees analysis viewed.
+01-09-2026 18:21:23 | INFO | Connected to the student database.
+01-09-2026 18:22:16 | INFO | Connected to the student database.
+01-09-2026 18:22:28 | INFO | Connected to the student database.
+01-09-2026 18:22:41 | INFO | Connected to the student database.
+01-09-2026 18:22:41 | WARNING | Failed login attempt for Roll No 106
+01-09-2026 18:25:15 | INFO | Connected to the student database.
+01-09-2026 18:25:15 | WARNING | Failed login attempt for Roll No 106
+01-09-2026 18:25:25 | INFO | Connected to the student database.
+01-09-2026 18:25:35 | INFO | Connected to the student database.
+01-09-2026 18:25:35 | WARNING | Failed login attempt for Roll No 106
+01-09-2026 18:26:15 | INFO | Connected to the student database.
+01-09-2026 18:26:35 | INFO | Connected to the student database.
+01-09-2026 18:26:49 | INFO | Connected to the student database.
+01-09-2026 18:26:51 | INFO | Connected to the student database.
+01-09-2026 18:27:20 | INFO | Password reset successfully for Roll No 106
+01-09-2026 18:27:35 | INFO | Connected to the student database.
+01-09-2026 18:28:03 | INFO | Admin login successful.
