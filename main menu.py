@@ -615,10 +615,12 @@ while True:
 
           else:   
             print("Invalid Username or Password. Please try again.")
+              continue
             
 
         elif choice=="3":
           print("Thanks ... ") 
-          break       
+          break   
+            break
         else:
           print("Invalid choice. Please enter 1 for Student Login or 2 for Admin Login.")
