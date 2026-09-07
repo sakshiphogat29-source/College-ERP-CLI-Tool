@@ -140,7 +140,7 @@ Logging
 ## Project Structure
 Student-ERP-System/
 │
-├── main.py
+├── main menu.py
 
 ├── database.py
 
