@@ -10,7 +10,7 @@ The system provides separate login access for students and administrators and in
 ### Mark attendance
 ![Mark attendance](Screenshots/Mark%20attendance.png)
 ### Students Exported
-![students exported](Screenshots/students%20exported)
+![students exported](https://github.com/sakshiphogat29-source/College-ERP-CLI-Tool/blob/main/Screenshots/students%20exported.png)
 ### Analytics
 #### Student strength
 ![Student strength](https://github.com/sakshiphogat29-source/College-ERP-CLI-Tool/blob/main/Screenshots/Student%20strength.png)
