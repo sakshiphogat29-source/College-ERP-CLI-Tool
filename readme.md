@@ -4,6 +4,22 @@ A Python and MySQL-based Student ERP System designed to efficiently manage stude
 
 The system provides separate login access for students and administrators and includes analytics features to visualize and analyze student data.
 
+## Screenshots
+### Main menu
+![Main menu](Screenshots/Main%20menu.png)
+### Mark attendance
+![Mark attendance](Screenshots/Mark%20attendance.png)
+### Students Exported
+![Students exported](Screenshots/students%20exported)
+### Analytics
+### Student strength
+![Student strength](Screenshots/Student%20strength)
+#### Students at risk
+![Students at risk](Screenshots/Students%20at%20risk)
+![Student risk analysis](Screenshots/Student%20risk%20analysis)
+
+
+
 ## Features
 ### Student Login
 
