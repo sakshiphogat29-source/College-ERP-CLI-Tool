@@ -12,11 +12,11 @@ The system provides separate login access for students and administrators and in
 ### Students Exported
 ![students exported](Screenshots/students%20exported)
 ### Analytics
-### Student strength
+#### Student strength
 ![Student strength](Screenshots/Student%20strength)
 #### Students at risk
 ![Students at Risk](https://github.com/sakshiphogat29-source/College-ERP-CLI-Tool/raw/refs/heads/main/Screenshots/Student%20at%20risk.png)
-![Student risk analysis](Screenshots/Student%20risk%20analysis)
+![Student risk analysis](https://github.com/sakshiphogat29-source/College-ERP-CLI-Tool/blob/main/Screenshots/Student%20risk%20analysis.png)
 
 
 
