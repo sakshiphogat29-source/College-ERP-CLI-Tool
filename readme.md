@@ -15,7 +15,7 @@ The system provides separate login access for students and administrators and in
 ### Student strength
 ![Student strength](Screenshots/Student%20strength)
 #### Students at risk
-![Students at risk](Screenshots/Students%20at%20risk)
+![Student at risk](Screenshots/Student%20at%20risk)
 ![Student risk analysis](Screenshots/Student%20risk%20analysis)
 
 
