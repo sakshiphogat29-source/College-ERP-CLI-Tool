@@ -15,7 +15,7 @@ The system provides separate login access for students and administrators and in
 ### Student strength
 ![Student strength](Screenshots/Student%20strength)
 #### Students at risk
-![Student at risk](Screenshots/Student%20at%20risk)
+![Students at Risk](https://github.com/sakshiphogat29-source/College-ERP-CLI-Tool/raw/refs/heads/main/Screenshots/Student%20at%20risk.png)
 ![Student risk analysis](Screenshots/Student%20risk%20analysis)
 
 
