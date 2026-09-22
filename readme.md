@@ -10,7 +10,7 @@ The system provides separate login access for students and administrators and in
 ### Mark attendance
 ![Mark attendance](Screenshots/Mark%20attendance.png)
 ### Students Exported
-![Students exported](Screenshots/students%20exported)
+![students exported](Screenshots/students%20exported)
 ### Analytics
 ### Student strength
 ![Student strength](Screenshots/Student%20strength)
