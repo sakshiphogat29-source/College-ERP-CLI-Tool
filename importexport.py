@@ -24,7 +24,7 @@ class ImportExport:
     @staticmethod
     def export_students_to_csv(file_path):
         db.connect_db()
-        query = "SELECT * FROM students"
+        query = "SELECT rollno,name,dob,fathername,mothername,sem,branch,phone,address FROM students"
         result = db.fetch_query(query)
         df = pd.DataFrame(result, columns=['rollno', 'name', 'dob', 'fathername', 'mothername', 'sem', 'branch', 'phone', 'address'])
         df.to_csv(file_path, index=False)
@@ -61,8 +61,10 @@ class ImportExport:
             for index, row in df.iterrows():
                 query = "INSERT INTO attendancetable (rollno, attendance_date, status, subject_id, sem, branch) VALUES (%s, %s, %s, %s, %s, %s)"
                 values = (row['rollno'],row['attendance_date'], row['status'], row['subject_id'], row['sem'], row['branch'])
-                db.execute_query(query, values)
-                logger.info("Attendance imported successfully from CSV file: %s", file_path)
+                success = db.execute_query(query, values)
+                if not success:
+                  print(f"failed to import row {index+1}")
+            logger.info("Attendance imported successfully from CSV file: %s", file_path)
             db.close_db()
         except ValueError as e:
             print(f"Error in importing : {e}")        
@@ -77,27 +79,7 @@ class ImportExport:
         logger.info("Attendance exported successfully to CSV file: %s", file_path)
         db.close_db()
 
-    @staticmethod
-    def import_marks_from_csv(file_path):
-        db.connect_db()
-        df = pd.read_csv(file_path)
-        for index, row in df.iterrows():
-            query = "INSERT INTO marks (rollno, subject_id, internal, external, total, grade) VALUES (%s, %s, %s, %s, %s, %s)"
-            values = (row['rollno'], row['subject_id'], row['internal'], row['external'], row['total'], row['grade'])
-            db.execute_query(query, values)
-            logger.info("Marks imported successfully from CSV file: %s", file_path)
-        db.close_db()
-
-    @staticmethod
-    def export_marks_to_csv(file_path): 
-        db.connect_db()
-        query = "SELECT * FROM marks"
-        result = db.fetch_query(query)
-        df = pd.DataFrame(result, columns=['rollno', 'subject_id', 'internal','external','total','grade'])
-        df.to_csv(file_path, index=False)
-        logger.info("Marks exported successfully to CSV file: %s", file_path)
-        db.close_db()
-
+    
     @staticmethod
     def import_fees_from_csv(file_path):    
         db.connect_db()

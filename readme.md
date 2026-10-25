@@ -1,239 +1,155 @@
-# Student ERP System
+# 🎓 Student ERP System
 
-A Python and MySQL-based Student ERP System designed to efficiently manage student records, academic information, attendance, fees, marks, and subjects through a simple menu-driven interface.
+A Python and MySQL-based Student ERP System designed to manage student records, fees, attendance, marks, and subjects through a menu-driven interface.
 
-The system provides separate login access for students and administrators and includes analytics features to visualize and analyze student data.
+The application provides separate student and administrator login access, analytics, and CSV import/export functionality.
 
-## Screenshots
-### Main menu
-![Main menu](Screenshots/Main%20menu.png)
-### Mark attendance
-![Mark attendance](Screenshots/Mark%20attendance.png)
+## 📸 Screenshots
+
+### Main Menu
+![Main Menu](Screenshots/Main%20menu.png)
+
+### Mark Attendance
+![Mark Attendance](Screenshots/Mark%20attendance.png)
+
 ### Students Exported
-![students exported](https://github.com/sakshiphogat29-source/College-ERP-CLI-Tool/blob/main/Screenshots/students%20exported.png)
-### Analytics
-#### Student strength
-![Student strength](https://github.com/sakshiphogat29-source/College-ERP-CLI-Tool/blob/main/Screenshots/Student%20strength.png)
-#### Students at risk
-![Students at Risk](https://github.com/sakshiphogat29-source/College-ERP-CLI-Tool/raw/refs/heads/main/Screenshots/Student%20at%20risk.png)
-![Student risk analysis](https://github.com/sakshiphogat29-source/College-ERP-CLI-Tool/blob/main/Screenshots/Student%20risk%20analysis.png)
-
-
-
-## Features
-### Student Login
-
-Students can log in using their roll number and password and access:
-
--View fee records
-
--View attendance
-
--View marks
-
--View personal profile
-
--Reset password
-
--Admin Login
-
-Administrators can log in and manage the complete student system.
-
-### Student Management
--Add student records
-
--Update student information
-
--Delete student records
-
--View all students
-
--Search students by roll number
-
--Search students by name
-
--Filter students by semester and branch
-
--Prevent duplicate student entries
-
-### Fees Management
--Add fee records
-
--Update fee records
-
--Delete fee records
-
--View all fee records
-
--View fees by roll number
-
--View fees by branch and semester
-
-###Attendance Management
-Mark student attendance
-
-View attendance records
-
-View attendance by subject
-
-View attendance by semester and branch
-
-### Marks Management
--Add marks records
-
--Update marks
-
--Delete marks
-
--View marks by subject
-
--View marks by student
-
--View marks by semester and branch
-
--View all marks records
-
-### Subject Management
--Add subjects
-
--Update subjects
-
--Delete subjects
-
--View subjects
-
--Check for existing subject IDs
-
-### Analytics
-
-The system provides analytical features to understand student-related data and identify trends.
-
--Student strength analysis
-
--Student strength by semester and branch
-
--Marks analysis
-
--Attendance analysis
-
--Student performance analysis
-
--Fees analysis
-
--Student-at-risk analysis
-
--CSV Import/Export
-
-Student and academic data can be easily imported from and exported to CSV files.
-
-## Supported data:
-
-Students
-
-Fees
-
-Attendance
-
-Marks
-
-Subjects
-
-
-## Technologies Used
-Python
-
-MySQL
-
-Pandas
-
-Matplotlib
-
-CSV
-
-Logging
-
-
-## Project Structure
-Student-ERP-System/
-│
-├── main menu.py
-
-├── database.py
-
-├── student.py
-
-├── fees.py
-
-├── attendance.py
-
-├── subjects.py
-
-├── marks.py
-
-├── authentication.py
-
+![Students Exported](Screenshots/students%20exported.png)
+
+### Analytics: Student Strength
+![Student Strength](Screenshots/Student%20strength.png)
+
+### Analytics: Students at Risk
+![Students at Risk](Screenshots/Student%20at%20risk.png)
+
+### Student Risk Analysis
+![Student Risk Analysis](Screenshots/Student%20risk%20analysis.png)
+
+## ✨ Features
+
+### 👨‍🎓 Student Login
+- View fee records
+- View attendance
+- View marks
+- View personal profile
+- Reset password
+
+### 🔐 Admin Login
+Administrators can manage student records and academic information.
+
+### 👥 Student Management
+- Add, update, delete, and view student records
+- Search by roll number or name
+- Filter by semester and branch
+- Prevent duplicate student entries
+
+### 💰 Fees Management
+- Add, update, delete, and view fee records
+- View fees by roll number
+- Filter fees by branch and semester
+
+### 📅 Attendance Management
+- Mark student attendance
+- View attendance records
+- View attendance by subject
+- Filter attendance by semester and branch
+
+### 📊 Marks Management
+- Add, update, delete, and view marks records
+- View marks by subject or student
+- Filter marks by semester and branch
+
+### 📚 Subject Management
+- Add, update, delete, and view subjects
+- Check for existing subject IDs
+
+### 📈 Analytics
+- Student strength analysis
+- Student strength by semester and branch
+- Marks analysis
+- Attendance analysis
+- Student performance analysis
+- Fees analysis
+- Student-at-risk analysis
+
+### 📁 CSV Import/Export
+Import and export student and academic data using CSV files.
+
+Supported data may include:
+- Students
+- Fees
+- Attendance
+- Marks
+- Subjects
+
+## 🛠️ Technologies Used
+- Python
+- MySQL
+- Pandas
+- Matplotlib
+- CSV
+- Logging
+
+## 📂 Project Structure
+
+```text
+College-ERP-CLI-Tool/
 ├── analytics.py
-
+├── attendance.py
+├── authentication.py
+├── database.py
+├── fees.py
 ├── importexport.py
-
 ├── logger.py
-
+├── main.py
+├── marks.py
+├── student.py
+├── subjects.py
 ├── requirements.txt
+├── readme.md
+├── .gitignore
+└── Screenshots/
+```
 
-├── README.md
+## 🚀 How to Run
 
-└── .gitignore
+### 1. Clone the repository
 
-## How to Run
-1. Clone the Repository
-   
-git clone <repository-url>
+```bash
+git clone https://github.com/sakshiphogat29-source/College-ERP-CLI-Tool.git
+cd College-ERP-CLI-Tool
+```
 
-cd Student-ERP-System
+### 2. Install dependencies
 
-3. Install Python Dependencies
-
-Install the required Python libraries using:
-
+```bash
 pip install -r requirements.txt
+```
 
-3. Set Up MySQL
-Install and start MySQL.
+### 3. Configure MySQL
+- Install and start MySQL.
+- Create the required database and tables.
+- Configure your database connection in `database.py`.
 
-Create the required database.
+### 4. Run the application
 
-Create the required tables.
-
-Configure the database connection in database.py.
-
-5. Run the Application
+```bash
 python main.py
+```
 
-## Login
+Use the login credentials configured in the application. Student login uses the credentials required by your implementation, while administrator login uses the configured admin credentials.
 
-The system provides two types of users:
+**Security note:** Do not commit database passwords or other sensitive credentials to GitHub.
 
-Student: Login using roll number and password.
+## 🔮 Future Improvements
+- GUI or web-based interface
+- Improved role-based access control
+- Secure password hashing
+- Automated database backups
+- Advanced analytics and visualizations
+- Attendance and performance reports
 
-Admin: Login using admin credentials configured in the application.
+## 👩‍💻 Author
 
-### Data Management
+**Sakshi**
 
-The system uses MySQL to store student-related information and supports CSV import/export for convenient data transfer and management.
-
-## Future Improvements
-GUI or web-based interface
-
-Role-based access control
-
-Secure password hashing
-
-Automated database backup
-
-More advanced analytics and visualizations
-
-Attendance and performance reports
-
-## Author
-
-Sakshi
+⭐ If you find this project useful, consider giving it a star on GitHub!

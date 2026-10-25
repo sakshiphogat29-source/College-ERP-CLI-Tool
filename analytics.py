@@ -75,17 +75,6 @@ def attendance_analysis():
         df = pd.DataFrame(result, columns=['sem', 'branch', 'avg_attendance'])
         df['avg_attendance'] = df['avg_attendance'].astype(float)
         pivot_df = df.pivot(index='sem', columns='branch', values='avg_attendance').fillna(0)
-        print("---- DEBUG ----")
-        print(pivot_df.dtypes)
-        print(pivot_df.to_numpy().dtype)
-        print(type(pivot_df.iloc[0, 0]))
-        print(result)
-        print(df)
-        print(df.dtypes)
-        print(type(df['avg_attendance'].iloc[0]))
-        
-        
-
         print(pivot_df)
         pivot_df.plot(kind='bar')
         plt.xlabel('Semester')

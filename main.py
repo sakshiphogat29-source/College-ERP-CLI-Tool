@@ -10,7 +10,6 @@ from importexport import ImportExport
 import getpass
 
 
-
 def parse_date(date_string):
     date_string = date_string.strip()
 
@@ -110,7 +109,9 @@ def admin_menu():
             import_export_menu()
 
         elif ch == "8":
+            print("Logging you out....")
             break
+    
 
         else:
             print("Invalid choice.")            
@@ -208,7 +209,7 @@ def student_management_menu():
                 print("Invalid choice.")
 
         elif ch2 == "5":
-            break
+            return
         else:
             print("Invalid choice........")        
 
@@ -249,29 +250,30 @@ def fees_management_menu():
             print("2. View Fees Record by Roll Number")
             print("3. View Fees Records by Branch and Semester")
             print("4. Back to Fees Management Menu")
-            ch = input("Enter choice: ")
-            if ch == "1":
+            while True:
+             ch = input("Enter choice: ")
+             if ch == "1":
                 Fees.view_all_fees()
-            elif ch == "2":
+             elif ch == "2":
                 rollno = input("Enter roll number of the student to view fees record: ")
                 if not rollno:
                     print("Roll number cannot be empty.")
                 else:
                     Fees.view_fees(rollno)
-            elif ch == "3":
+             elif ch == "3":
                 branch = input("Enter branch: ")
                 sem = int(input("Enter semester: "))
                 if not branch or not sem:
                     print("Branch and semester cannot be empty.")
                 else:
                     Fees.view_fees_by_branch_sem(branch, sem)
-            elif ch == "4":
+             elif ch == "4":
                 break
-            else:
+             else:
                 print("Invalid choice.")
 
         elif ch == "5":
-            break
+            return
 
         else:
             print("Invalid choice.")
@@ -323,7 +325,7 @@ def attendance_management_menu():
             view_attendance_by_subject(subject_id)
 
         elif ch == "4":
-            break
+            return
 
         else:
             print("Invalid choice.") 
@@ -371,32 +373,33 @@ def marks_management_menu():
             print("3. View Marks Records by Branch and Semester")
             print("4. View all Marks Record")
             print("5. Back to Marks Management Menu")
-            ch = input("Enter choice: ")
-            if ch == "1":
+            while True:
+              ch = input("Enter choice: ")
+              if ch == "1":
                 subject_id=int(input("Enter subject id: "))
                 MarksManagement.view_marks(subject_id)
-            elif ch == "2":
+              elif ch == "2":
                 rollno = input("Enter roll number of the student to view marks record: ")
                 if not rollno:
                     print("Roll number cannot be empty.")
                 else:
                     MarksManagement.view_student_marks(rollno)
-            elif ch == "3":
+              elif ch == "3":
                 branch = input("Enter branch: ")
                 sem = input("Enter semester: ")
                 if not branch or not sem:
                     print("Branch and semester cannot be empty.")
                 else:
                     MarksManagement.view_marks_by_sem_branch(sem, branch)
-            elif ch=="4":
+              elif ch=="4":
                 MarksManagement.view_all_marks()        
-            elif ch == "5":
+              elif ch == "5":
                 break
-            else:
+              else:
                 print("Invalid choice.")
 
         elif ch == "5":
-            break
+            return
 
         else:
             print("Invalid choice.")
@@ -448,7 +451,7 @@ def subject_management_menu():
             SubjectManagement.view_subjects()
 
         elif ch == "5":
-            break
+            return
 
         else:
             print("Invalid choice.")    
@@ -504,7 +507,7 @@ def analytics_menu():
         elif ch == "6":
             risk_analysis()
         elif ch == "7":
-            break    
+            return
 
         else:
             print("Invalid choice.")                                           
@@ -574,7 +577,8 @@ def import_export_menu():
             print("subjects exported successfully")
 
         elif ch == "11":
-            break    
+            return
+
 
         else:
             print("Invalid choice.")
@@ -582,16 +586,17 @@ def import_export_menu():
 
 
 
-while True:
-    print("__________________________________________________________________") 
-    print()
-    print("             WELCOME TO STUDENT ERP SYSTEM    ")
-    print("__________________________________________________________________")
-    print(" MAIN MENU ")
-    print(" 1.STUDENT LOGIN ")
-    print(" 2.ADMIN LOGIN ")
-    print(" 3.Exit ")
-    while True:
+def main():
+  print("__________________________________________________________________") 
+  print()
+  print("             WELCOME TO STUDENT ERP SYSTEM    ")
+  print("__________________________________________________________________")
+  print(" MAIN MENU ") 
+  while True:
+        print(" 1.STUDENT LOGIN ")
+        print(" 2.ADMIN LOGIN ")
+        print(" 3.Exit ")
+  
         choice=input("Enter your choice: ")
         if choice=="1":
           rollno=int(input("Enter Roll Number: "))
@@ -615,12 +620,27 @@ while True:
 
           else:   
             print("Invalid Username or Password. Please try again.")
+<<<<<<<< HEAD:mainpy
               continue
+========
+            continue
+>>>>>>>> a4e20a3 (Fix menu navigation):main.py
             
 
         elif choice=="3":
           print("Thanks ... ") 
+<<<<<<<< HEAD:mainpy
           break   
             break
         else:
           print("Invalid choice. Please enter 1 for Student Login or 2 for Admin Login.")
+========
+          break 
+              
+        else:
+          print("Invalid choice. Please enter 1 for Student Login or 2 for Admin Login.")
+
+
+if __name__ == "__main__":
+    main()          
+>>>>>>>> a4e20a3 (Fix menu navigation):main.py

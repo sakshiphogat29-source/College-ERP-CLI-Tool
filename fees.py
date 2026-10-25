@@ -113,7 +113,7 @@ class Fees:
         if result:
             print(f"\nFees Records for Branch: {branch}, Semester: {sem}")
             print("-"*80)
-            df=pd.DataFrame(result,columns=['rollno','totalfees','feespaid','penalty','feesconcession','balancefees','name','dob','fathername','mothername','sem','branch','phone','address'])
+            df=pd.DataFrame(result,columns=['rollno','name','totalfees','feespaid','penalty','feesconcession','balancefees'])
             print(df)
         else:
             print(f"No fees records found for Branch: {branch}, Semester: {sem}.")
