@@ -112,7 +112,7 @@ class Student:
     @staticmethod
     def view_student(branch,sem):
         db.connect_db()
-        query="SELECT * FROM students WHERE sem=%s AND branch=%s"
+        query="SELECT rollno,name,dob,fathername,mothername,sem,branch,phone,address FROM students WHERE sem=%s AND branch=%s"
         values=(sem,branch)
         result = db.fetch_query(query,values)
         if result:
@@ -144,7 +144,7 @@ class Student:
     @staticmethod    
     def view_student_by_name(name):
         db.connect_db()
-        query="SELECT * FROM students WHERE name=%s"
+        query="SELECT rollno,name,dob,fathername,mothername,sem,branch,phone,address FROM students WHERE name=%s"
         values=(name,)
         result = db.fetch_query(query,values)
         db.close_db()
@@ -153,14 +153,14 @@ class Student:
     @staticmethod    
     def order_students_by_rollno():
         db.connect_db()
-        query="SELECT * FROM students ORDER BY rollno"
+        query="SELECT rollno,name,dob,fathername,mothername,sem,branch,phone,address FROM students ORDER BY rollno"
         result = db.fetch_query(query)
         db.close_db()
         return result
     @staticmethod    
     def order_students_by_name():
         db.connect_db()
-        query="SELECT * FROM students ORDER BY name"
+        query="SELECT rollno,name,dob,fathername,mothername,sem,branch,phone,address FROM students ORDER BY name"
         result = db.fetch_query(query)
         db.close_db()
         return result

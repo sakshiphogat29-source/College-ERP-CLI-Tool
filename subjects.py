@@ -61,6 +61,7 @@ class SubjectManagement:
         result=db.fetch_query(query,(sem,branch))
         df=pd.DataFrame(result,columns=['subject_id','subject_name','subject_code'])
         print(df)
+        db.close_db()
         return result
     
     @staticmethod
@@ -71,17 +72,7 @@ class SubjectManagement:
         db.close_db()
         if result and result[0][0]:
             return result[0][0]
-    @staticmethod
-    def subject_exists(subject_id):
-        db.connect_db()
-        query="SELECT subject_name, subject_code FROM subjects WHERE subject_id=%s"
-        result=db.fetch_query(query,(subject_id,))
-        
-        if result:
-            return result[0]
-        else:
-            print("Subject does not exists")
-
+    
 
         
             
