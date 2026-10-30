@@ -87,8 +87,8 @@ def view_attendance_by_sem_branch(sem,branch):
 def view_attendance_by_subject(subject_id):
     db.connect_db()
     subject=SubjectManagement.get_subject_name(subject_id)
-    print(f"Attendance Records for Subject: {subject[1]} (ID: {subject[0]})")
-    query="SELECT * FROM attendancetable WHERE subject_id=%s ORDER BY rollno"
+    print(f"Attendance Records for Subject: {subject_name})")
+    query="SELECT a.rollno, s.name, a.attendance_date, a.status FROM attendancetable AS a JOIN students AS s ON a.rollno = s.rollno WHERE a.subject_id = %s ORDER BY a.rollno"
     values=(subject_id,)
     result=db.fetch_query(query,values)
     df=pd.DataFrame(result,columns=['rollno','name','attendance_date','status'])

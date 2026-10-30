@@ -74,7 +74,7 @@ class ImportExport:
         db.connect_db()
         query = "SELECT * FROM attendancetable"
         result = db.fetch_query(query)
-        df = pd.DataFrame(result, columns=['rollno', 'name', 'attendance_date', 'status', 'subject_id', 'sem', 'branch'])
+        df = pd.DataFrame(result, columns=['rollno', 'attendance_date', 'status', 'subject_id', 'sem', 'branch'])
         df.to_csv(file_path, index=False)
         logger.info("Attendance exported successfully to CSV file: %s", file_path)
         db.close_db()
