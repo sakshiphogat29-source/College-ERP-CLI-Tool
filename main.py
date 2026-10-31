@@ -8,7 +8,7 @@ from datetime import datetime
 from analytics import *
 from importexport import ImportExport
 import getpass
-from validation import get_valid_input, validate_sem, validate_branch, validate_phone, validate_rollno, validate_date, validate_subject_id, validate_status,validate_name
+from validation import get_valid_input, validate_sem, validate_branch, validate_phone, validate_rollno, validate_date, validate_subject_id, validate_status,validate_name, validate_credits
 
 def parse_date(date_string):
     date_string = date_string.strip()
@@ -145,18 +145,12 @@ def student_management_menu():
                 print("Student added successfully.")
 
         elif ch2 == "2":
-            rollno = input("Enter roll number of the student to update: ") 
-            if not rollno:
-               print("Roll number cannot be empty.")
-            else:
-               Student.update_student(rollno)
+            rollno = get_valid_input("Enter roll number of the student to update: ", validate_rollno)
+            Student.update_student(rollno)
         elif ch2 == "3":
-            rollno = input("Enter roll number of the student to delete: ")
-            if not rollno:
-                print("Roll number cannot be empty.")
-            else:
-                Student.delete_student(rollno)
-                print(f"Roll no {rollno} deleted. ")
+            rollno = get_valid_input("Enter roll number of the student to delete: ", validate_rollno)
+            Student.delete_student(rollno)
+            print(f"Roll no {rollno} deleted. ")
         elif ch2 == "4":
             print("1. View All Students")
             print("2. View Student by Roll Number")
@@ -167,24 +161,15 @@ def student_management_menu():
             if ch3 == "1":
                 Student.view_all_students()
             elif ch3 == "2":
-                rollno = input("Enter roll number of the student to view: ")
-                if not rollno:
-                    print("Roll number cannot be empty.")
-                else:
-                    Student.view_student_by_rollno(rollno)
+                rollno = get_valid_input("Enter roll number of the student to view: ", validate_rollno)
+                Student.view_student_by_rollno(rollno)
             elif ch3 == "3":
-                sem = input("Enter semester: ")
-                branch = input("Enter branch: ")
-                if not sem or not branch:
-                    print("Semester and branch cannot be empty.")
-                else:
-                    Student.view_student(branch,sem)
+                sem = get_valid_input("Enter semester: ", validate_sem)
+                branch = get_valid_input("Enter branch: ", validate_branch)
+                Student.view_student(branch,sem)
             elif ch3 == "4":
-                name = input("Enter name of the student to view: ")
-                if not name:
-                    print("Name cannot be empty.")
-                else:
-                    Student.view_student_by_name(name)                
+                name = get_valid_input("Enter name of the student to view: ", validate_name)
+                Student.view_student_by_name(name)
             elif ch3 == "5":
                 break
             else:
@@ -207,25 +192,19 @@ def fees_management_menu():
         ch = input("Enter choice: ")
 
         if ch == "1":
-            rollno = int(input("Enter roll number of the student to add fees record: "))
+            rollno = get_valid_input("Enter roll number of the student to add fees record: ", validate_rollno)
             penalty = int(input("Enter Penalty if any: ") or 0)
             feespaid = int(input("Enter Fees Paid: ") or 0)
             feesconcession = int(input("Enter Fees Concession if any: ") or 0)
             Fees.add_fees(rollno, penalty, feespaid, feesconcession)
 
         elif ch == "2":
-            rollno = int(input("Enter roll number of the student to update fees record: "))
-            if not rollno:
-                print("Roll number cannot be empty.")
-            else:
-                Fees.update_fees(rollno)
+            rollno = get_valid_input("Enter roll number of the student to update fees record: ", validate_rollno)
+            Fees.update_fees(rollno)
 
         elif ch == "3":
-            rollno = int(input("Enter roll number of the student to delete fees record: "))
-            if not rollno:
-                print("Roll number cannot be empty.")
-            else:
-                Fees.delete_fees(rollno)
+            rollno = get_valid_input("Enter roll number of the student to delete fees record: ", validate_rollno)
+            Fees.delete_fees(rollno)
 
         elif ch == "4":
             print("1. View All Fees Records")
@@ -237,18 +216,15 @@ def fees_management_menu():
              if ch == "1":
                 Fees.view_all_fees()
              elif ch == "2":
-                rollno = input("Enter roll number of the student to view fees record: ")
+                rollno = get_valid_input("Enter roll number of the student to view fees record: ", validate_rollno)
                 if not rollno:
                     print("Roll number cannot be empty.")
                 else:
                     Fees.view_fees(rollno)
              elif ch == "3":
-                branch = input("Enter branch: ")
-                sem = int(input("Enter semester: "))
-                if not branch or not sem:
-                    print("Branch and semester cannot be empty.")
-                else:
-                    Fees.view_fees_by_branch_sem(branch, sem)
+                branch = get_valid_input("Enter branch: ", validate_branch)
+                sem = get_valid_input("Enter semester: ", validate_sem)
+                Fees.view_fees_by_branch_sem(branch, sem)
              elif ch == "4":
                 break
              else:
@@ -271,39 +247,22 @@ def attendance_management_menu():
 
         ch = input("Enter choice: ")
         if ch == "1":
-            sem = int(input("Enter Semester: "))
-            if sem not in range(1, 9):
-                print("Invalid semester. Please enter a value between 1 and 8.")
-                continue
-            branch = input("Enter Branch: ").upper()
-            if branch not in ["CSE", "ECE", "MECH", "CIVIL", "EEE", "AI/DS", "AI/ML"]:
-                print("Invalid branch. Please enter a valid branch.")
-                continue
+            sem = get_valid_input("Enter Semester: ", validate_sem)
+            branch = get_valid_input("Enter Branch: ", validate_branch)
+    
             subjects=SubjectManagement.get_subjects(sem,branch)
         
 
-            subject_id = int(input("Enter Subject ID: "))
-            if not subject_id:
-                print("Subject ID cannot be empty.")
-                continue
+            subject_id = get_valid_input("Enter Subject ID: ", validate_subject_id)
             mark_attendance(sem,branch,subject_id)
 
         elif ch == "2":
-            sem = int(input("Enter Semester: "))
-            if sem not in range(1, 9):
-                print("Invalid semester. Please enter a value between 1 and 8.")
-                continue
-            branch = input("Enter Branch: ").upper()
-            if branch not in ["CSE", "ECE", "MECH", "CIVIL", "EEE", "AI/DS", "AI/ML"]:
-                print("Invalid branch. Please enter a valid branch.")
-                continue
+            sem = get_valid_input("Enter Semester: ", validate_sem)
+            branch = get_valid_input("Enter Branch: ", validate_branch)                
             view_attendance_by_sem_branch(sem,branch)
 
         elif ch == "3":
-            subject_id = int(input("Enter Subject ID: "))
-            if not subject_id:
-                print("Subject ID cannot be empty.")
-                continue
+            subject_id = get_valid_input("Enter Subject ID: ", validate_subject_id)
             view_attendance_by_subject(subject_id)
 
         elif ch == "4":
@@ -325,29 +284,23 @@ def marks_management_menu():
         
 
         if ch == "1":
-            sem=int(input("Enter sem:"))
-            branch=input("Enter branch:").upper()                   
+            sem=get_valid_input("Enter sem: ", validate_sem)
+            branch=get_valid_input("Enter branch: ", validate_branch)
 
             MarksManagement.add_marks(sem,branch)
             print(f"Marks added for {sem} semester and {branch} branch.")
 
         elif ch == "2":
-            rollno = int(input("Enter roll number of the student to update marks record: "))
-            subject_id=int(input("Enter subject id: "))
-            if not rollno and subject_id:
-                print("Fields cannot be empty.")
-            else:
-                MarksManagement.update_marks(rollno,subject_id)
-                print("Marks updated.")
+            rollno = get_valid_input("Enter roll number of the student to update marks record: ", validate_rollno)
+            subject_id = get_valid_input("Enter subject id: ", validate_subject_id)
+            MarksManagement.update_marks(rollno,subject_id)
+            print("Marks updated successfully.")
 
         elif ch == "3":
-            rollno = int(input("Enter roll number of the student to delete marks record: "))
-            subject_id=int(input("Enter subject id :"))
-            if not rollno:
-                print("Roll number cannot be empty.")
-            else:
-                MarksManagement.delete_marks(rollno,subject_id)
-                print("Marks delted.")
+            rollno = get_valid_input("Enter roll number of the student to delete marks record: ", validate_rollno)
+            subject_id = get_valid_input("Enter subject id : ", validate_subject_id)
+            MarksManagement.delete_marks(rollno,subject_id)
+            print("Marks deleted successfully.")
 
         elif ch == "4":
             print("1. View Marks Records by Subject Id")
@@ -358,21 +311,15 @@ def marks_management_menu():
             while True:
               ch = input("Enter choice: ")
               if ch == "1":
-                subject_id=int(input("Enter subject id: "))
+                subject_id=validate_subject_id(input("Enter subject id: "))
                 MarksManagement.view_marks(subject_id)
               elif ch == "2":
-                rollno = input("Enter roll number of the student to view marks record: ")
-                if not rollno:
-                    print("Roll number cannot be empty.")
-                else:
-                    MarksManagement.view_student_marks(rollno)
+                rollno = get_valid_input("Enter roll number of the student to view marks record: ", validate_rollno)
+                MarksManagement.view_student_marks(rollno)
               elif ch == "3":
-                branch = input("Enter branch: ")
-                sem = input("Enter semester: ")
-                if not branch or not sem:
-                    print("Branch and semester cannot be empty.")
-                else:
-                    MarksManagement.view_marks_by_sem_branch(sem, branch)
+                branch = get_valid_input("Enter branch: ", validate_branch)
+                sem = get_valid_input("Enter semester: ", validate_sem)
+                MarksManagement.view_marks_by_sem_branch(sem, branch)
               elif ch=="4":
                 MarksManagement.view_all_marks()        
               elif ch == "5":
@@ -398,7 +345,7 @@ def subject_management_menu():
         ch = input("Enter choice: ")
 
         if ch == "1":
-            subject_id = int(input("Enter Subject ID: "))
+            subject_id = get_valid_input("Enter Subject ID: ", validate_subject_id)
             subject_exists = SubjectManagement.subject_exists(subject_id)
             if subject_exists:
                 print(f"Subject with Subject ID {subject_id} already exists.")
@@ -406,29 +353,21 @@ def subject_management_menu():
                         
             subject_name = input("Enter Subject Name: ")    
             subject_code = input("Enter Subject Code: ")
-            sem = int(input("Enter Semester: "))
-            branch = input("Enter Branch: ").upper()    
-            credits = int(input("Enter Credits: "))
-            if not subject_id or not subject_name or not subject_code or not sem or not branch or not credits:
-                print("All fields are required. Please provide valid inputs.")
+            sem = get_valid_input("Enter Semester: ", validate_sem)
+            branch = get_valid_input("Enter Branch: ", validate_branch)
+            credits = get_valid_input("Enter Credits: ", validate_credits)
             SubjectManagement.add_subject(subject_id,subject_name,subject_code,sem,branch,credits)
             print("Subject addedd successfully...")
 
         elif ch == "2":
-            subject_id = int(input("Enter subject ID to update: "))
-            if not subject_id:
-                print("Subject ID cannot be empty.")
-            else:
-                SubjectManagement.update_subjects(subject_id)
-                print("subject updated")
+            subject_id = get_valid_input("Enter subject ID to update: ", validate_subject_id)
+            SubjectManagement.update_subjects(subject_id)
+            print("subject updated")
 
         elif ch == "3":
-            subject_id = int(input("Enter subject ID to delete: "))
-            if not subject_id:
-                print("Subject ID cannot be empty.")
-            else:
-                SubjectManagement.delete_subject(subject_id)
-                print("subject deleted")
+            subject_id = get_valid_input("Enter subject ID to delete: ", validate_subject_id)
+            SubjectManagement.delete_subject(subject_id)
+            print("subject deleted")
         elif ch == "4":
             SubjectManagement.view_subjects()
 
@@ -581,7 +520,7 @@ def main():
   
         choice=input("Enter your choice: ")
         if choice=="1":
-          rollno=int(input("Enter Roll Number: "))
+          rollno=get_valid_input("Enter Roll Number: ", validate_rollno)
           password=getpass.getpass("Enter password: ")
           if student_login(username=rollno,password=password):
             student_menu(rollno)

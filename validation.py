@@ -66,3 +66,14 @@ def validate_status(status):
     if status not in valid_statuses:
         raise ValueError(f"Status must be one of {', '.join(valid_statuses)}.")
 
+def validate_credits(credits):
+    try:
+        credits = int(credits)
+    except ValueError:
+        raise ValueError("Credits must be a number.")
+
+    if credits < 1 or credits > 5:
+        raise ValueError("Credits must be between 1 and 5.")
+
+    return credits    
+
