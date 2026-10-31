@@ -8,7 +8,7 @@ from datetime import datetime
 from analytics import *
 from importexport import ImportExport
 import getpass
-
+from validation import get_valid_input, validate_sem, validate_branch, validate_phone, validate_rollno, validate_date, validate_subject_id, validate_status,validate_name
 
 def parse_date(date_string):
     date_string = date_string.strip()
@@ -129,38 +129,20 @@ def student_management_menu():
         ch2 = input("Enter choice: ")
 
         if ch2 == "1":
-            try:
-                rollno=int(input("Roll No: "))
-                if rollno<=0:
-                    print("Invalid roll number. Please enter a positive integer.")
-                    continue
-            except ValueError:
-                print("Please enter valid Roll no.")
-                continue    
-            name=input("Name: ")
-            dob=input("Date of birth:")
-            dob = parse_date(dob)
+                rollno = get_valid_input("Roll No: ", validate_rollno)
+                name = get_valid_input("Name: ", validate_name)
+                dob = get_valid_input("Date of birth (DD-MM-YYYY): ",validate_date)
+                fathername = get_valid_input("Father's Name: ", validate_name)
+                mothername = get_valid_input("Mother's Name: ", validate_name)
+                sem = get_valid_input("Semester: ", validate_sem)
+                branch = get_valid_input("Branch: ", validate_branch)
+                phone = get_valid_input("Phone Number: ", validate_phone)
+                address = input("Address: ")
 
             
-            fathername=input("Father's Name: ")
-            mothername=input("Mother's Name: ")
-            sem=int(input("Semester: "))
-            if sem not in range(1,9):
-                print("Invalid semester. Please enter a value between 1 and 8.")
-                continue
-            branch=input("Branch: ")
-            if branch not in ["CSE", "ECE", "MECH", "CIVIL", "EEE", "AI/DS", "AI/ML"]:
-                print("Invalid branch. Please enter a valid branch.")
-                continue
-            phone=input("Phone Number: ")
-            if not phone.isdigit() or len(phone) != 10:
-                print("Invalid phone number. Please enter a 10-digit number.")
-                continue
-            address=input("Address: ")
-                        
 
-            Student.add_student(rollno, name, dob, fathername, mothername, sem, branch, phone, address)
-            print("Student added successfully.")
+                Student.add_student(rollno, name, dob, fathername, mothername, sem, branch, phone, address)
+                print("Student added successfully.")
 
         elif ch2 == "2":
             rollno = input("Enter roll number of the student to update: ") 
@@ -620,27 +602,13 @@ def main():
 
           else:   
             print("Invalid Username or Password. Please try again.")
-<<<<<<<< HEAD:mainpy
-              continue
-========
             continue
->>>>>>>> a4e20a3 (Fix menu navigation):main.py
-            
-
         elif choice=="3":
-          print("Thanks ... ") 
-<<<<<<<< HEAD:mainpy
-          break   
-            break
+          print("Exiting the program...")
+          break
         else:
-          print("Invalid choice. Please enter 1 for Student Login or 2 for Admin Login.")
-========
-          break 
-              
-        else:
-          print("Invalid choice. Please enter 1 for Student Login or 2 for Admin Login.")
-
-
+            print("Invalid choice. Please try again.")
+            continue
 if __name__ == "__main__":
     main()          
->>>>>>>> a4e20a3 (Fix menu navigation):main.py
+
