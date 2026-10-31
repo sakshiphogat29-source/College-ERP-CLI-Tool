@@ -34,17 +34,19 @@ def validate_sem(sem):
 
 def validate_branch(branch):
     valid_branches = ["CSE", "ECE", "MECH", "CIVIL", "EEE","AI/ML","AI/DS"]
-    if branch not in valid_branches:
+    if branch.upper() not in valid_branches:
         raise ValueError(f"Branch must be one of {', '.join(valid_branches)}.")
+    return branch.upper()
 
 def validate_phone(phone):
     if not phone.isdigit() or len(phone) != 10:
         raise ValueError("Phone number must be a 10-digit number.")
+    return phone
 
 def validate_rollno(rollno):
     if not rollno.isdigit():
         raise ValueError("Roll number must be a 10-digit number.")
-
+    return rollno
 def validate_date(date_str):
     try:
         date_obj = datetime.strptime(date_str.strip(), "%d-%m-%Y")
@@ -60,12 +62,13 @@ def validate_date(date_str):
 def validate_subject_id(subject_id):
     if not subject_id.isdigit() or len(subject_id) != 5:
         raise ValueError("Subject ID must be a 5-digit number.")
+    return subject_id
 
 def validate_status(status):
     valid_statuses = ["P", "A", "L", "V"]
     if status not in valid_statuses:
         raise ValueError(f"Status must be one of {', '.join(valid_statuses)}.")
-
+    return status
 def validate_credits(credits):
     try:
         credits = int(credits)

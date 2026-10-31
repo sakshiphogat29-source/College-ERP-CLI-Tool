@@ -2,6 +2,7 @@
 import pandas as pd
 from database import db
 from logger import logger
+from validation import validate_name, validate_date, validate_sem, validate_branch, validate_phone, validate_rollno
 class Student:
     @staticmethod    
     def add_student(rollno, name, dob, fathername, mothername, sem, branch, phone, address):
@@ -66,31 +67,46 @@ class Student:
             current_phone=result[0][6]
             current_address=result[0][7]
             name=input(f"Enter new name (current: {current_name}): ")
+            if name:
+                name=validate_name(name)
+            else:
+                name=current_name
             dob=input(f"Enter new date of birth (current: {current_dob}): ")
+            if dob:
+                dob=validate_date(dob)
+            else:
+                dob=current_dob
             
             fathername=input(f"Enter new father's name (current: {current_fathername}): ")
+            if fathername:
+                fathername=validate_name(fathername)
+            else:
+                fathername=current_fathername
             mothername=input(f"Enter new mother's name (current: {current_mothername}): ")
+            if mothername:
+                mothername=validate_name(mothername)
+            else:
+                mothername=current_mothername
             sem=input(f"Enter new semester (current: {current_sem}): ")
-            
+            if sem:
+                sem=validate_sem(sem)
+            else:
+                sem=current_sem
+
             branch=input(f"Enter new branch (current: {current_branch}): ")
+            if branch:
+                branch=validate_branch(branch)
+            else:
+                branch=current_branch
             phone=input(f"Enter new phone number (current: {current_phone}): ")
+            if phone:
+                phone=validate_phone(phone)
+            else:
+                phone=current_phone
             
             address=input(f"Enter new address (current: {current_address}): ")
             
-            if not name:
-                name=current_name
-            if not dob:
-                dob=current_dob
-            if not fathername:
-                fathername=current_fathername
-            if not mothername:
-                mothername=current_mothername
-            if not sem:
-                sem=current_sem
-            if not branch:
-                branch=current_branch
-            if not phone:
-                phone=current_phone
+        
             if not address:
                 address=current_address
 
@@ -100,6 +116,7 @@ class Student:
         db.execute_query(query, values)
 
         db.close_db()
+        print("Student updated successfully.")
         logger.info("Student updated successfully for Roll No %s", rollno)
     @staticmethod
     def search_student(rollno,name):
@@ -118,6 +135,8 @@ class Student:
         if result:
             df=pd.DataFrame(result,columns=['rollno','name','dob','fathername','mothername','sem','branch','phone','address'])
             print(df)
+        else:
+            print("No students found for the given semester and branch.")    
         db.close_db()
         
     @staticmethod    

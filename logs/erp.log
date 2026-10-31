@@ -12,3 +12,12 @@
 25-10-2026 16:42:32 | INFO | Admin login successful.
 30-10-2026 22:51:15 | INFO | Connected to the student database.
 31-10-2026 20:40:48 | INFO | Connected to the student database.
+31-10-2026 20:52:33 | INFO | Connected to the student database.
+31-10-2026 20:52:44 | WARNING | Failed admin login attempt with username: admin
+31-10-2026 20:52:54 | INFO | Admin login successful.
+31-10-2026 20:53:00 | INFO | Connected to the student database.
+31-10-2026 20:53:20 | INFO | Connected to the student database.
+31-10-2026 20:53:38 | INFO | Connected to the student database.
+31-10-2026 20:53:59 | INFO | Connected to the student database.
+31-10-2026 20:54:22 | INFO | Connected to the student database.
+31-10-2026 20:54:50 | INFO | Student updated successfully for Roll No 1004
